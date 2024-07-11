@@ -1,0 +1,678 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader findaidstatus="In_process" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid mainagencycode="US-nnmm" url="file:/usr/local/projects/migration_scripts/nyead/ead/nnmm/MMA-Gardner.xml">nnmm_mma-gardner</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Albert Ten Eyck Gardner records,<num>Archives.Gardner.1</num>
+                </titleproper>
+                <author>Finding aid prepared by Celia Hartmann</author>
+                <sponsor>Processing of this collection was funded by a generous grant from the Leon Levy Foundation</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>The Metropolitan Museum of Art Archives</publisher>
+                <address>
+                    <addressline>1000 Fifth Avenue</addressline>
+                    <addressline>New York, NY, 10028-0198</addressline>
+                    <addressline>212-570-3937</addressline>
+                    <addressline>archives@metmuseum.org</addressline>
+                </address>
+                <date>2013</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit<date>2013-12-20T09:15-0500</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Albert Ten Eyck Gardner records, 1824-1970</unittitle>
+            <unitid>Archives.Gardner.1</unitid>
+            <repository>
+                <corpname>The Metropolitan Museum of Art Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.67 Linear feet</extent>
+                <extent>(3 full-size document boxes, 2 half-size document boxes)</extent>
+            </physdesc>
+            <unitdate normal="1960/1970" type="bulk">Bulk, 1960-1970</unitdate>
+            <unitdate normal="1824/1970" type="inclusive">1824-1970 (bulk 1960-1967)</unitdate>
+            <origination label="creator">
+                <persname rules="aacr2" source="naf">Gardner, Albert Ten Eyck</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr2" source="naf" role="Author (aut)">Hyman, Linda</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr2" source="naf" role="Author (aut)">Tomkins, Calvin, 1925-</persname>
+            </origination>
+        </did>
+        <custodhist id="ref91">
+            <head>Provenance</head>
+            <p>The Albert Ten Eyck Gardner records include manuscripts, records, and printed material from Gardner&#x2019;s apartment that were returned to the Museum by his executor after his death; some folders from the papers of his ex-wife, Elizabeth E. Gardner, curator in the Department of European Paintings; and an address book donated by John K. Howat, Lawrence A. Fleischman Chairman of the Departments of American Art, at his retirement in 2001.</p>
+        </custodhist>
+        <scopecontent id="ref90">
+            <head>Scope and Contents note</head>
+            <p>The Albert Ten Eyck Gardner records include general correspondence and answers to queries from curators at a wide range of American museums, documentation of his own gifts of materials to the Metropolitan Museum and other institutions, responses to requests for information on items in the Metropolitan&#x2019;s collections, and some notes on the organization of the Museum Archives. The records also include articles, essays, and cartoons related to Gardner&#x2019;s interest in the history of American museums collected by him from a variety of sources.</p>
+            <p>A significant portion of the records include research materials, notes, and drafts for Gardner&#x2019;s<emph render="italic">Publications of the Metropolitan Museum of Art 1870-1964: a bibliography</emph>(1965) and the unpublished book,<emph render="italic">American Museum - A World Under Glass</emph>, his unpublished history of the Metropolitan Museum, and Centennial Timeline. A few of the latter materials are marked &#x201C;Calvin&#x201D; or &#x201C;C.T,&#x201D; it is assumed posthumously, for use by Calvin Tomkins in writing<emph render="italic">Merchants and Masterpieces: The Story of the Metropolitan Museum of Art</emph>(1970). A series of uncaptioned black and white snapshots document the planned location of the gallery for the Temple of Dendur on the Museum's northern edge, and, on the its southern edge, the area used for staging and storage during construction of the Sackler Wing that encloses the Temple of Dendur.</p>
+            <p>The records also include some documents that postdate Gardner&#x2019;s death.</p>
+        </scopecontent>
+        <bioghist id="ref89">
+            <head>Biographical note</head>
+            <p>Albert Ten Eyck Gardner (1914-1967) served as research fellow in the Office of the Director (1941-1949), archivist and acting secretary (1949-1956), associate curator (1956-1966) and associate curator in charge of American Paintings and Sculpture (1966-1967), and associate curator of The Metropolitan Museum of Art's 100th Anniversary Committee (1967). In 1949 he was commissioned by Director Francis Henry Taylor to write a history of the American museum with a planned title of<emph render="italic">American Museum: A World Under Glass</emph>; and later by Director Thomas Hoving to write a history of the Metropolitan Museum planned for publication to mark the Museum&#x2019;s centennial in 1970. Neither work was completed by the time of Gardner's sudden death in 1967. Calvin Tomkins was subsequently contracted by the Museum to complete the project, and Gardner&#x2019;s notes were made available to him. Tomkins'<emph render="italic">Merchants and Masterpieces: The Story of the Metropolitan Museum of Art</emph>was published by E.P. Dutton during the centennial year, and revised and updated in 1989 (published by Henry Holt). It remains the most current authorized history of the Metropolitan Museum.</p>
+            <p>Educated at the Pennsylvania Academy of Fine Arts, Albert Ten Eyck Gardner began his museum career in 1931 as special assistant to the librarian at the Pennsylvania Museum of Art. While serving in 1931-1932 as private librarian for Paul J. Sachs, professor of art at Harvard University, Gardner took Sachs&#x2019;s museum training course, &#x201C;Museum Work and Museum Problems,&#x201D; other students of which included, at various times, curators Alfred Barr and William Lieberman, and collector and dance impresario Lincoln Kirstein. By the 1940s, Gardner was considered a specialist in the history of American museums, and before coming to the Metropolitan had been on the staffs of the Fogg Museum, Cambridge, MA; William Rockhill Nelson Gallery, Kansas City, MO; and Palace of Fine Arts, San Francisco, CA.</p>
+            <p>In 1944, Gardner married Elizabeth E. Carson, who, as Elizabeth E. Gardner, served as a research fellow (1948-1952), associate curator (1952-1965), and curator (1971-1985) in the Department of European Paintings at the Metropolitan Museum. She was an expert in the history of collections of Italian paintings and coauthored, with Federico Zeri, a four-volume catalogue of Italian paintings at the Metropolitan. The couple was divorced at the time of Albert Ten Eyck Gardner&#x2019;s death in 1967; Elizabeth E. Gardner died in 1985.</p>
+            <p>Gardner&#x2019;s scholarly output included many articles and books, including<emph render="italic">Yankee stonecutters: the first American school of sculpture, 1800-1850</emph>(1945),<emph render="italic">A concise catalog of the American paintings in the Metropolitan Museum of Art</emph>(1957) revised in 1965,<emph render="italic">Winslow Homer, American artist: His world and his work</emph>(1961),<emph render="italic">American sculpture; a catalogue of the collection of the Metropolitan Museum of Art</emph>(1965), and<emph render="italic">Publications of the Metropolitan Museum of Art, 1870-1964: a bibliography</emph>(1965). His writings on Metropolitan Museum history included &#x201C;Metropolitan people and pictures&#x201D;(<emph render="italic">Art News</emph>Vol 52, no. 9, January 1954), and &#x201C;Museum in motion&#x201D; (The Metropolitan Museum of Art<emph render="italic">Bulletin</emph>, vol. 24, no. 1, Summer 1965, pp. 12-25).</p>
+            <p>Gardner organized more than forty exhibitions at the Metropolitan during his career, including &#x201C;Paris Fashions between Two Wars: Drawings from a Collection Presented by C.J. Oppenheim&#x201D; (1944), &#x201C;Rodin and French Sculpture&#x201D; (1957), &#x201C;Drawings from John Singleton Copley&#x201D; (1962), and, jointly with Stuart Feld, &#x201C;Three Centuries of American Painting&#x201D; (1965). He also collected avidly in the area of printed material on American museums, including prints, drawings, pamphlets, and other ephemera, and was a donor of such items to institutions including the Metropolitan Museum and the Museum of the City of New York.</p>
+            <p>
+                <emph render="bold">Works Consulted</emph>
+            </p>
+            <p>&#x201C;Albert Gardner, Art Curator, Dies.&#x201D;<emph render="italic">New York Times</emph>, July 13, 1967.</p>
+        </bioghist>
+        <accessrestrict id="ref1">
+            <head>Conditions Governing Access note</head>
+            <p>Collection is open for research. Collection contains photographs that should be handled with gloves.</p>
+        </accessrestrict>
+        <userestrict id="ref4">
+            <head>Conditions Governing Use note</head>
+            <p>Copyright restrictions apply. Consult Archives staff regarding permission to quote or reproduce.</p>
+        </userestrict>
+        <arrangement id="ref66">
+            <head>Arrangement note</head>
+            <p>The records are arranged in two series: Series I. Correspondence and Related Material; Series II. Research and Writings.</p>
+        </arrangement>
+        <prefercite id="ref70">
+            <head>Preferred Citation note</head>
+            <p>[Title of item], [date], Box [number], Folder [number], Albert Ten Eyck Gardner records, The Metropolitan Museum of Art Archives.</p>
+        </prefercite>
+        <controlaccess>
+            <persname rules="aacr2" source="naf" role="Former owner (fmo)">Gardner, Elizabeth E.</persname>
+            <corpname rules="dacs" source="local">Metropolitan Museum of Art (New York, N.Y.). Department of American Paintings and Sculpture.</corpname>
+            <genreform source="aat">Clippings (Books, newspapers etc.)</genreform>
+            <genreform source="aat">Color slides.</genreform>
+            <genreform source="aat">Correspondence</genreform>
+            <title source="local">Metropolitan Museum of Art (New York, N.Y.) Architecture</title>
+            <subject source="lcsh">Metropolitan Museum of Art (New York, N.Y.) -- Officials and employees.</subject>
+            <subject source="local">Metropolitan Museum of Art (New York, N.Y.). Anniversaries</subject>
+            <subject source="local">Metropolitan Museum of Art (New York, N.Y.). History</subject>
+            <genreform source="aat">Photocopies</genreform>
+            <genreform source="aat">Photographs</genreform>
+        </controlaccess>
+        <dsc>
+            <c id="ref5" level="series">
+                <did>
+                    <unittitle>Series I. Correspondence and Related Material</unittitle>
+                    <unitdate normal="1942/1967" type="inclusive">1942-1967</unitdate>
+                </did>
+                <arrangement id="ref17">
+                    <head>Arrangement note</head>
+                    <p>The series is arranged in chronological order, followed by two folders of the contents of Gardner's address book, and an analytical summary of some donor records in the Museum Archives in 1951.</p>
+                </arrangement>
+                <scopecontent id="ref18">
+                    <head>Scope and Contents note</head>
+                    <p>The series contains Gardner's correspondence to (carbons) and from museum curators and cultural organizations that include acknowledgements of Gardner's gifts of materials, queries about items in the Metropolitan and other museums' collections, and general professional practice. Among his correspondents are Baltimore Museum of Art Director Adelyn D. Breeskin, Brooklyn Museum Curator of Oriental Art George J. Lee, The Hispanic Society of America Curator Beatrice Gilman Proske, Harry A. Brooks at M. Knoedler and Co., Museum of the City of New York Curator of Prints, Drawings and Photography Grace M. Mayer, Museum of Fine Arts Boston Director G. H. Edgell, Philadelphia Museum of Art Curator of Chinese Art Jean Gordon Lee and Curator of Prints and Drawings Carl Zigrosser, and Western Reserve Historical Society Director Russell Anderson. It also includes an address book that contained both an alphabetical list of contacts and an "office manual" detailing contents and locations of items in Gardner's office; and a summary of information on important Museum donors culled from the Office of the Secretary records in 1951.</p>
+                </scopecontent>
+                <c id="ref9" level="file">
+                    <did>
+                        <unittitle/>
+                        <container id="cid326001" type="box" label="Mixed materials">1</container>
+                        <container parent="cid326001" type="folder">1</container>
+                        <unitdate normal="1942/1946" type="inclusive">1942-1946.</unitdate>
+                    </did>
+                </c>
+                <c id="ref21" level="file">
+                    <did>
+                        <unittitle/>
+                        <container id="cid326004" type="box" label="Mixed materials">1</container>
+                        <container parent="cid326004" type="folder">2</container>
+                        <unitdate normal="1944/1959" type="inclusive">1944-1953, 1959.</unitdate>
+                    </did>
+                    <odd id="ref22">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Note</emph>: Correspondence appears to have been culled at a later date. Correspondents include Lincoln Kirstein, Abby A. (Mrs. John D.) Rockefeller, and Frank Crowninshield</p>
+                    </odd>
+                </c>
+                <c id="ref12" level="file">
+                    <did>
+                        <unittitle/>
+                        <container id="cid326002" type="box" label="Mixed materials">1</container>
+                        <container parent="cid326002" type="folder">3</container>
+                        <unitdate normal="1947/1949" type="inclusive">1947-1949.</unitdate>
+                    </did>
+                    <odd id="ref87">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Access note</emph>: Minutes of the Executive Committee have been removed from this file, according to Museum Archives access policy.</p>
+                    </odd>
+                </c>
+                <c id="ref13" level="file">
+                    <did>
+                        <unittitle/>
+                        <container id="cid326003" type="box" label="Mixed materials">1</container>
+                        <container parent="cid326003" type="folder">4</container>
+                        <unitdate normal="1950/1950">1950.</unitdate>
+                    </did>
+                    <odd id="ref81">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Access note</emph>: Minutes of the Purchasing Committee have been removed from this file, according to Museum Archives access policy.</p>
+                    </odd>
+                    <odd id="ref82">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Access note</emph>: Redacted copies of documents with salary information replace originals in this folder. Restricted documents may be accessed on or after September 26, 2035, at the discretion of Archives staff.</p>
+                    </odd>
+                </c>
+                <c id="ref14" level="file">
+                    <did>
+                        <unittitle/>
+                        <container id="cid326005" type="box" label="Mixed materials">1</container>
+                        <container parent="cid326005" type="folder">5</container>
+                        <unitdate normal="1951/1952" type="inclusive">1951-1952.</unitdate>
+                    </did>
+                </c>
+                <c id="ref15" level="file">
+                    <did>
+                        <unittitle/>
+                        <container id="cid326006" type="box" label="Mixed materials">1</container>
+                        <container parent="cid326006" type="folder">6</container>
+                        <unitdate normal="1953/1953">1953.</unitdate>
+                    </did>
+                </c>
+                <c id="ref16" level="file">
+                    <did>
+                        <unittitle/>
+                        <container id="cid326007" type="box" label="Mixed materials">1</container>
+                        <container parent="cid326007" type="folder">7</container>
+                        <unitdate normal="1954/1954">1954.</unitdate>
+                    </did>
+                </c>
+                <c id="ref19" level="file">
+                    <did>
+                        <unittitle/>
+                        <container id="cid326011" type="box" label="Mixed materials">1</container>
+                        <container parent="cid326011" type="folder">8</container>
+                        <unitdate normal="1955/1956" type="inclusive">1955-1957.</unitdate>
+                    </did>
+                </c>
+                <c id="ref20" level="file">
+                    <did>
+                        <unittitle/>
+                        <container id="cid326012" type="box" label="Mixed materials">1</container>
+                        <container parent="cid326012" type="folder">9</container>
+                        <unitdate>1958-1961.</unitdate>
+                    </did>
+                </c>
+                <c id="ref23" level="file">
+                    <did>
+                        <unittitle/>
+                        <container id="cid326013" type="box" label="Mixed materials">1</container>
+                        <container parent="cid326013" type="folder">10</container>
+                        <unitdate>1962-1967.</unitdate>
+                    </did>
+                </c>
+                <c id="ref11" level="file">
+                    <did>
+                        <unittitle>Address book. A-Z.</unittitle>
+                        <container id="cid326014" type="box" label="Mixed materials">1</container>
+                        <container parent="cid326014" type="folder">11</container>
+                        <unitdate normal="1950/1967" type="inclusive">[1950s-1960s]</unitdate>
+                    </did>
+                </c>
+                <c id="ref26" level="file">
+                    <did>
+                        <unittitle>Address book. Office manual.</unittitle>
+                        <container id="cid326015" type="box" label="Mixed materials">4</container>
+                        <container parent="cid326015" type="folder">1</container>
+                        <unitdate normal="1950/1967" type="inclusive">[1950s-1960s]</unitdate>
+                    </did>
+                </c>
+                <c id="ref32" level="file">
+                    <did>
+                        <unittitle>Archives analytical summaries.</unittitle>
+                        <container id="cid326016" type="box" label="Mixed materials">5</container>
+                        <container parent="cid326016" type="folder">4</container>
+                        <unitdate normal="1951/1951">1951</unitdate>
+                    </did>
+                    <odd id="ref85">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Access note</emph>: Includes sensitive donor and object-related information. Access will be determined on a case-by-case basis at the discretion of Museum Archives staff.</p>
+                    </odd>
+                </c>
+            </c>
+            <c id="ref10" level="series">
+                <did>
+                    <unittitle>Series II. Research and Writings</unittitle>
+                    <unitdate normal="1960/1967" type="bulk">Bulk, 1960-1967</unitdate>
+                    <unitdate normal="1824/1970" type="inclusive">1824-1970 (bulk 1960s)</unitdate>
+                </did>
+                <scopecontent id="ref25">
+                    <head>Scope and Contents note</head>
+                    <p>The series is composed of Gardner's notes, research, drafts, original printed ephemera, and some final copies of his writings on museum history, including a planned history of The Metropolitan Museum of Art. The latter includes the contents of three binders of notes as well as foldered and loose materials. Binders 1 and 2 were divided into sections, the titles of which are used here. Binder 3 was not subdivided into sections by Gardner: materials are grouped by subject with supplied titles. The handwriting in the manuscript research notes varies and may be that of research assistants Gardner employed on the project.</p>
+                    <p>Gardner amassed information from throughout the Metropolitan Museum's history. Many folders of handwritten and photocopied materials have a supplied date of [1960s] based on when he would have amassed them rather than on the original materials' dates of creation.</p>
+                    <p>Also included is unofficial documentation of the planned location of the gallery for the Temple of Dendur on the northern edge of The Metropolitan Museum of Art. These uncaptioned black and white snapshots show its exterior and Central Park prior to construction of the Sackler Wing, which encloses the Temple of Dendur and opened in 1978. Views of the southern edge show the area that would be used for storage and staging during construction of the Sackler Wing.</p>
+                </scopecontent>
+                <arrangement id="ref31">
+                    <head>Arrangement note</head>
+                    <p>The series is arranged alphabetically by subject.</p>
+                </arrangement>
+                <c id="ref27" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">American Museum - A World Under Glass.</emph>General plan, alphabetical index.</unittitle>
+                        <container id="cid331001" type="box" label="Mixed materials">2</container>
+                        <container parent="cid331001" type="folder">1</container>
+                        <unitdate normal="1941/1941">1941</unitdate>
+                    </did>
+                    <odd id="ref55">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Note</emph>: According to a note in the file, this material was transferred from the Department of European Paintings at an unspecified date.</p>
+                    </odd>
+                </c>
+                <c id="ref6" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Binder 1. Benefactors.</unittitle>
+                        <container id="cid326017" type="box" label="Mixed materials">2</container>
+                        <container parent="cid326017" type="folder">2</container>
+                        <unitdate normal="1946/1967" type="inclusive">1946, [1960s]</unitdate>
+                    </did>
+                </c>
+                <c id="ref43" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Binder 1. Cesnola controversies.</unittitle>
+                        <container id="cid326018" type="box" label="Mixed materials">2</container>
+                        <container parent="cid326018" type="folder">3</container>
+                        <unitdate normal="1960/1967" type="inclusive">[1960s]</unitdate>
+                    </did>
+                </c>
+                <c id="ref45" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Binder 1. Directors.</unittitle>
+                        <container id="cid326022" type="box" label="Mixed materials">2</container>
+                        <container parent="cid326022" type="folder">4</container>
+                        <unitdate normal="1960/1967" type="inclusive">[1960s]</unitdate>
+                    </did>
+                </c>
+                <c id="ref42" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Binder 1. Founders.</unittitle>
+                        <container id="cid326021" type="box" label="Mixed materials">2</container>
+                        <container parent="cid326021" type="folder">5</container>
+                        <unitdate normal="1960/1967" type="inclusive">[1960s]</unitdate>
+                    </did>
+                </c>
+                <c id="ref48" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Binder 1. Loose note.</unittitle>
+                        <container id="cid326023" type="box" label="Mixed materials">2</container>
+                        <container parent="cid326023" type="folder">6</container>
+                        <unitdate normal="1960/1967" type="inclusive">[1960s]</unitdate>
+                    </did>
+                </c>
+                <c id="ref24" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Binder 2. Articles on Metropolitan Museum of Art.</unittitle>
+                        <container id="cid326020" type="box" label="Mixed materials">4</container>
+                        <container parent="cid326020" type="folder">2</container>
+                        <unitdate normal="1960/1967" type="inclusive">[1960s]</unitdate>
+                    </did>
+                </c>
+                <c id="ref49" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Binder 2. Collecting.</unittitle>
+                        <container id="cid326024" type="box" label="Mixed materials">2</container>
+                        <container parent="cid326024" type="folder">7</container>
+                        <unitdate normal="1960/1967" type="inclusive">[1960s]</unitdate>
+                    </did>
+                </c>
+                <c id="ref92" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Binder 2. Interviews.</unittitle>
+                        <container id="cid326019" type="box" label="Mixed materials">2</container>
+                        <container parent="cid326019" type="folder">8</container>
+                        <unitdate normal="1960/1967" type="inclusive">[1960s]</unitdate>
+                    </did>
+                </c>
+                <c id="ref50" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Binder 2. Miscellaneous [transcribed letters, humorous anecdotes].</unittitle>
+                        <container id="cid326025" type="box" label="Mixed materials">2</container>
+                        <container parent="cid326025" type="folder">9</container>
+                        <unitdate normal="1960/1967" type="inclusive">[1960s]</unitdate>
+                    </did>
+                </c>
+                <c id="ref46" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Binder 2. Museology.</unittitle>
+                        <container id="cid326029" type="box" label="Mixed materials">2</container>
+                        <container parent="cid326029" type="folder">10</container>
+                        <unitdate normal="1960/1967" type="inclusive">[1960s]</unitdate>
+                    </did>
+                </c>
+                <c id="ref47" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Binder 2. Other institutions.</unittitle>
+                        <container id="cid326030" type="box" label="Mixed materials">2</container>
+                        <container parent="cid326030" type="folder">11</container>
+                        <unitdate normal="1960/1967" type="inclusive">[1960s]</unitdate>
+                    </did>
+                </c>
+                <c id="ref51" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Binder 2. Loose materials.</unittitle>
+                        <container id="cid326031" type="box" label="Mixed materials">2</container>
+                        <container parent="cid326031" type="folder">12</container>
+                    </did>
+                    <odd id="ref96">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Note</emph>: Includes Metropolitan Museum of Art<emph render="italic">Bulletin</emph>, Summer 1965, "The Metropolitan Museum of Art A Review of Fifty Years' Development Printed on the Occasion of the Fiftieth Anniversary of the Founding of the Museum" [marked "Calvin"].</p>
+                    </odd>
+                </c>
+                <c id="ref54" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Binder 3. Chronological register of materials for a history of the Metropolitan Museum of Art, 1870-1970.</unittitle>
+                        <container id="cid326034" type="box" label="Mixed materials">2</container>
+                        <container parent="cid326034" type="folder">13</container>
+                        <unitdate normal="1960/1967" type="inclusive">[1960s]</unitdate>
+                    </did>
+                </c>
+                <c id="ref53" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Binder 3. Notes from annual reports on events, gifts, purchases, exhibitions.</unittitle>
+                        <container id="cid326033" type="box" label="Mixed materials">2</container>
+                        <container parent="cid326033" type="folder">14</container>
+                        <unitdate normal="1960/1967" type="inclusive">[1960s]</unitdate>
+                    </did>
+                </c>
+                <c id="ref52" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Binder 3. Loose materials. Photocopied background research.</unittitle>
+                        <container id="cid326032" type="box" label="Mixed materials">2</container>
+                        <container parent="cid326032" type="folder">15</container>
+                        <unitdate normal="1960/1967" type="inclusive">[1960s]</unitdate>
+                    </did>
+                </c>
+                <c id="ref35" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Background information.</unittitle>
+                        <container id="cid326027" type="box" label="Mixed materials">2</container>
+                        <container parent="cid326027" type="folder">16</container>
+                        <unitdate>1965-1967</unitdate>
+                    </did>
+                    <odd id="ref36">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Note</emph>: Includes notes, photograph requisitions, memos, 75th Anniversary register of collections, clippings, 1965 Metropolitan Museum of Art<emph render="italic">Bulletin,</emph>containing Gardner's article "Museum in Motion."</p>
+                    </odd>
+                </c>
+                <c id="ref34" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Bibliography.</unittitle>
+                        <container id="cid326026" type="box" label="Mixed materials">2</container>
+                        <container parent="cid326026" type="folder">17</container>
+                        <unitdate normal="1960/1967" type="inclusive">[1960s]</unitdate>
+                    </did>
+                </c>
+                <c id="ref40" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Biographies.</unittitle>
+                        <container id="cid326028" type="box" label="Mixed materials">2</container>
+                        <container parent="cid326028" type="folder">18</container>
+                        <unitdate normal="1960/1967" type="inclusive">[1960s]</unitdate>
+                    </did>
+                    <odd id="ref41">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Note</emph>: The original folder was marked "Bios for C.[alvin] T.[omkins]"</p>
+                    </odd>
+                </c>
+                <c id="ref60" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Centennial address, Douglas Dillon. Includes drafts, Barbara Newsom correspondence and notes.</unittitle>
+                        <container id="cid326035" type="box" label="Mixed materials">2</container>
+                        <container parent="cid326035" type="folder">19</container>
+                        <unitdate normal="1970/1970">1970</unitdate>
+                    </did>
+                    <odd id="ref93">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Note</emph>: This material postdates Albert Ten Eyck Gardner. It appears to have originated in the files of Barbara Y. Newsom, Public Affairs Consultant to the 100th Anniversary Committee.</p>
+                    </odd>
+                </c>
+                <c id="ref57" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Chronology. Notes.</unittitle>
+                        <container id="cid326036" type="box" label="Mixed materials">3</container>
+                        <container parent="cid326036" type="folder">1</container>
+                        <unitdate normal="1960/1967" type="inclusive">[1960s]</unitdate>
+                    </did>
+                </c>
+                <c id="ref58" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Clippings, articles, photocopies.</unittitle>
+                        <container id="cid326038" type="box" label="Mixed materials">3</container>
+                        <container parent="cid326038" type="folder">2</container>
+                        <unitdate normal="1960/1967" type="inclusive">[1960s]</unitdate>
+                    </did>
+                </c>
+                <c id="ref8" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Collections.</unittitle>
+                        <container id="cid326037" type="box" label="Mixed materials">3</container>
+                        <container parent="cid326037" type="folder">3</container>
+                        <unitdate normal="1960/1967" type="inclusive">[1960s]</unitdate>
+                    </did>
+                </c>
+                <c id="ref37" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Ideas.</unittitle>
+                        <container id="cid326039" type="box" label="Mixed materials">3</container>
+                        <container parent="cid326039" type="folder">4</container>
+                        <unitdate normal="1960/1967" type="inclusive">[1960s]</unitdate>
+                    </did>
+                </c>
+                <c id="ref38" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Notes.</unittitle>
+                        <container id="cid326041" type="box" label="Mixed materials">3</container>
+                        <container parent="cid326041" type="folder">5</container>
+                        <unitdate normal="1880/1970" type="inclusive">1880-1935, 1970, undated</unitdate>
+                    </did>
+                    <odd id="ref39">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Note</emph>: Gardner labeled the original folder "Kent gems." It contains carbons of some correspondence signed by Henry Watson Kent, Assistant Secretary (1905-1912) and Secretary (1913-1940) of the Museum.</p>
+                    </odd>
+                </c>
+                <c id="ref33" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. People.</unittitle>
+                        <container id="cid326040" type="box" label="Mixed materials">3</container>
+                        <container parent="cid326040" type="folder">6</container>
+                        <unitdate normal="1960/1967" type="inclusive">[1960s]</unitdate>
+                    </did>
+                </c>
+                <c id="ref59" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Photographs. Order numbers, copy negatives.</unittitle>
+                        <container id="cid326042" type="box" label="Mixed materials">3</container>
+                        <container parent="cid326042" type="folder">7</container>
+                        <unitdate normal="1965/1969" type="inclusive">[1965]-1969</unitdate>
+                    </did>
+                    <odd id="ref94">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Note</emph>: Includes a 1969 response to a letter and clipping, added after Gardner's death.</p>
+                    </odd>
+                    <odd id="ref71">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Note</emph>: Oversized materials have been removed to box 4, folder 3.</p>
+                    </odd>
+                </c>
+                <c id="ref72" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Photographs. Order numbers. Oversized.</unittitle>
+                        <container id="cid326043" type="box" label="Mixed materials">4</container>
+                        <container parent="cid326043" type="folder">3</container>
+                        <unitdate normal="1965/1965">[1965]</unitdate>
+                    </did>
+                    <odd id="ref73">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Note</emph>: Oversized materials removed from box 3, folder 7.</p>
+                    </odd>
+                </c>
+                <c id="ref80" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Temple of Dendur. In situ and historic images. Black and white prints.</unittitle>
+                        <container id="cid326044" type="box" label="Mixed materials">3</container>
+                        <container parent="cid326044" type="folder">8</container>
+                        <unitdate normal="1965/1965">[1965]</unitdate>
+                    </did>
+                </c>
+                <c id="ref61" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Temple of Dendur. Text, background information.</unittitle>
+                        <container id="cid326045" type="box" label="Mixed materials">3</container>
+                        <container parent="cid326045" type="folder">9</container>
+                        <unitdate normal="1966/1968" type="inclusive">1966-1968</unitdate>
+                    </did>
+                </c>
+                <c id="ref74" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Temple of Dendur. Renderings. Black and white prints.</unittitle>
+                        <container id="cid326046" type="box" label="Mixed materials">3</container>
+                        <container parent="cid326046" type="folder">10</container>
+                        <unitdate normal="1960/1967" type="inclusive">[1960s]</unitdate>
+                    </did>
+                    <odd id="ref79">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Note</emph>: Oversized materials have been removed to flat file 18/drawer 1, folder 12.</p>
+                    </odd>
+                </c>
+                <c id="ref78" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Temple of Dendur. Renderings. Black and white photographs, photocopies. Oversized.</unittitle>
+                        <container id="cid326047" type="flat-file" label="Mixed materials">18/drawer 1</container>
+                        <container parent="cid326047" type="folder">12</container>
+                    </did>
+                    <odd id="ref95">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Note</emph>: Oversized materials removed from box 3, folder 10.</p>
+                    </odd>
+                </c>
+                <c id="ref77" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Temple of Dendur. Museum exteriors. Color and black and white photographs.</unittitle>
+                        <container id="cid326051" type="box" label="Mixed materials">3</container>
+                        <container parent="cid326051" type="folder">11</container>
+                        <unitdate normal="1960/1967" type="inclusive">[1960s]</unitdate>
+                    </did>
+                </c>
+                <c id="ref63" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Cartoons. Black and white prints.</unittitle>
+                        <container id="cid326049" type="box" label="Mixed materials">3</container>
+                        <container parent="cid326049" type="folder">12</container>
+                        <unitdate normal="1920/1965" type="inclusive">1920s-1960s</unitdate>
+                    </did>
+                </c>
+                <c id="ref62" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Cartoons. Clippings, photocopies.</unittitle>
+                        <container id="cid326048" type="box" label="Mixed materials">3</container>
+                        <container parent="cid326048" type="folder">13</container>
+                        <unitdate normal="1883/1965" type="inclusive">1883-1965</unitdate>
+                    </did>
+                </c>
+                <c id="ref65" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Cartoons.<emph render="italic">Life</emph>.</unittitle>
+                        <container id="cid326050" type="box" label="Mixed materials">3</container>
+                        <container parent="cid326050" type="folder">14</container>
+                        <unitdate normal="1880/1889" type="inclusive">1880s</unitdate>
+                    </did>
+                </c>
+                <c id="ref64" level="file">
+                    <did>
+                        <unittitle>Metropolitan Museum history. Cartoons. Lists, photograph requisitions,<emph render="italic">New Yorker</emph>covers and clippings.</unittitle>
+                        <container id="cid326055" type="box" label="Mixed materials">3</container>
+                        <container parent="cid326055" type="folder">15</container>
+                        <unitdate normal="1962/1966" type="inclusive">1962-1966</unitdate>
+                    </did>
+                </c>
+                <c id="ref75" level="file">
+                    <did>
+                        <unittitle>Museum history. Avery, Samuel P., photograph collection.</unittitle>
+                        <container id="cid326058" type="box" label="Mixed materials">4</container>
+                        <container parent="cid326058" type="folder">4</container>
+                        <unitdate normal="1896/1967" type="inclusive">1896-1960s</unitdate>
+                    </did>
+                </c>
+                <c id="ref76" level="file">
+                    <did>
+                        <unittitle>Museum history. Original printed materials.</unittitle>
+                        <container id="cid326059" type="box" label="Mixed materials">3</container>
+                        <container parent="cid326059" type="folder">16</container>
+                        <unitdate normal="1824/1904" type="inclusive">1824-1904</unitdate>
+                    </did>
+                </c>
+                <c id="ref68" level="file">
+                    <did>
+                        <unittitle>Professional materials. Bibliography of published and unpublished works, 1939-1966.</unittitle>
+                        <container id="cid326057" type="box" label="Mixed materials">3</container>
+                        <container parent="cid326057" type="folder">17</container>
+                        <unitdate normal="1947/1966" type="inclusive">1947-1966</unitdate>
+                    </did>
+                </c>
+                <c id="ref67" level="file">
+                    <did>
+                        <unittitle>Professional materials. Memos received re: copyright for various published works.</unittitle>
+                        <container id="cid326056" type="box" label="Mixed materials">3</container>
+                        <container parent="cid326056" type="folder">18</container>
+                        <unitdate normal="1958/1958">August-December 1958</unitdate>
+                    </did>
+                </c>
+                <c id="ref30" level="file">
+                    <did>
+                        <unittitle>Professional materials. Resume, clipping.</unittitle>
+                        <container id="cid326053" type="box" label="Mixed materials">3</container>
+                        <container parent="cid326053" type="folder">19</container>
+                        <unitdate normal="1958/1966" type="inclusive">1958, June 1966</unitdate>
+                    </did>
+                </c>
+                <c id="ref28" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Publications of the Metropolitan Museum of Art 1870-1964: A Bibliography</emph>(1965). Earlier version.</unittitle>
+                        <container id="cid326052" type="box" label="Mixed materials">3</container>
+                        <container parent="cid326052" type="folder">20</container>
+                        <unitdate normal="1964/1964">[1964]</unitdate>
+                    </did>
+                </c>
+                <c id="ref56" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Publications of the Metropolitan Museum of Art 1870-1964: A Bibliography</emph>(1965). Later version.</unittitle>
+                        <container id="cid326054" type="box" label="Mixed materials">3</container>
+                        <container parent="cid326054" type="folder">21</container>
+                        <unitdate normal="1964/1964">[1964]</unitdate>
+                    </did>
+                </c>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>

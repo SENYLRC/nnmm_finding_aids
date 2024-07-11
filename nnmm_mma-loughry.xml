@@ -1,0 +1,592 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader findaidstatus="In_process" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid mainagencycode="US-nnmm" url="file:/usr/local/projects/migration_scripts/nyead/ead/nnmm/MMA-Loughry.xml">nnmm_mma-loughry</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding aid to the J. Kenneth Loughry records<num>Archives.Loughry.1</num>
+                </titleproper>
+                <titleproper type="filing">J. Kenneth Loughry records</titleproper>
+                <author>Finding aid prepared by Celia Hartmann</author>
+                <sponsor>Processing of this collection was funded by a generous grant from the Leon Levy Foundation</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>The Metropolitan Museum of Art Archives</publisher>
+                <address>
+                    <addressline>1000 Fifth Avenue</addressline>
+                    <addressline>New York, NY, 10028-0198</addressline>
+                    <addressline>212-570-3937</addressline>
+                    <addressline>archives@metmuseum.org</addressline>
+                </address>
+                <date>July 2013</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit<date>2013-12-20T09:15-0500</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>J. Kenneth Loughry records, 1929, 1943-1971 (bulk 1945-1969)</unittitle>
+            <unitid>Archives.Loughry.1</unitid>
+            <repository>
+                <corpname>The Metropolitan Museum of Art Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>2.3 Linear feet</extent>
+                <extent>(5 full-size document cases, 1 half-size document case)</extent>
+            </physdesc>
+            <unitdate normal="1945/1969" type="bulk">Bulk, 1945-1969</unitdate>
+            <unitdate normal="1929/1971" type="inclusive">1929, 1943-1971 (bulk 1945-1969)</unitdate>
+            <origination label="creator">
+                <persname rules="dacs" source="local">Loughry, J. Kenneth, d. 1976</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="dacs" source="local" role="Correspondent (crp)">Trescher, George</persname>
+            </origination>
+        </did>
+        <userestrict id="ref4">
+            <head>Conditions Governing Use note</head>
+            <p>Copyright restrictions apply. Consult Archives staff regarding permission to quote or reproduce.</p>
+        </userestrict>
+        <scopecontent id="ref67">
+            <head>Scope and Contents note</head>
+            <p>The J. Kenneth Loughry records contain documents from the Treasurer's office, including financial and investment-related reports, and correspondence related to the Metropolitan Museum&#x2019;s Finance Committee from 1949 to 1962. They also include Loughry&#x2019;s correspondence with Museum trustees and staff members and materials pertaining to the activities of the Cultural Institutions Group, of which the Metropolitan was a member organization, especially related to employee pension and insurance issues. The records include one folder each of budgetary analyses of the proposed merger of The Metropolitan Museum of Art with The Whitney Museum of American Art in 1944 and the Metropolitan&#x2019;s centennial celebrations in 1970.</p>
+            <p>Records pertaining to The Metropolitan Museum of Art&#x2019;s Board of Trustees, Finance Committee, legal proceedings, investments, and specific employee compensation information are restricted according to Museum policy.</p>
+        </scopecontent>
+        <bioghist id="ref66">
+            <head>Biographical note</head>
+            <p>J. Kenneth Loughry (1905-1976) served as Assistant Treasurer (1944-1947), Secretary of the Finance Committee (1947-1968), and Treasurer (1947-1968) of The Metropolitan Museum of Art. He retired prematurely in the autumn of 1968, citing reasons of health and other personal considerations. He lived in Fort Collins, Colorado, and was killed in an automobile accident in in Idaho Springs, Colorado, in April 1976. After graduating from Wesleyan University, Loughry had served as a certified public accountant with the firm of Lybrand, Ross Brothers &amp; Montgomery (later Coopers &amp; Lybrand) before joining the Metropolitan Museum&#x2019;s staff.</p>
+        </bioghist>
+        <arrangement id="ref72">
+            <head>Arrangement note</head>
+            <p>The J. Kenneth Loughry records are arranged in three series: I. Board of Trustees, II. Finance Committee Meetings, III. General Files.</p>
+        </arrangement>
+        <accessrestrict id="ref1">
+            <head>Conditions Governing Access note</head>
+            <p>Collection is open for research.</p>
+            <p>Records pertaining to The Metropolitan Museum of Art&#x2019;s Board of Trustees, Finance Committee, legal proceedings, investments, and specific employee compensation information are restricted according to Museum policy.</p>
+        </accessrestrict>
+        <prefercite id="ref74">
+            <head>Preferred Citation note</head>
+            <p>[Title of item], [date], Box [number], Folder [number], J. Kenneth Loughry records, Metropolitan Museum of Art Archives.</p>
+        </prefercite>
+        <relatedmaterial id="ref75">
+            <head>Related Archival Materials note</head>
+            <p>Loughry, Mr. and Mrs. J. Kenneth, 1944-, Office of the Secretary Records, Metropolitan Museum of Art Archives.</p>
+        </relatedmaterial>
+        <controlaccess>
+            <corpname rules="aacr2" source="naf">Metropolitan Museum of Art (New York, N.Y.). Board of Trustees.</corpname>
+            <corpname rules="rda" source="naf">Metropolitan Museum of Art (New York, N.Y.). -- History</corpname>
+            <genreform source="aat">Administrative records</genreform>
+            <genreform source="aat">Correspondence</genreform>
+            <genreform source="aat">Reports</genreform>
+        </controlaccess>
+        <dsc>
+            <c id="ref14" level="series">
+                <did>
+                    <unittitle>Series I. Board of Trustees</unittitle>
+                    <unitdate normal="1960/1969" type="bulk">Bulk, 1960-1969</unitdate>
+                    <unitdate normal="1950/1969" type="inclusive">1950, 1960-1969</unitdate>
+                </did>
+                <accessrestrict id="ref143">
+                    <head>Conditions Governing Access note</head>
+                    <p>Files in this series containing sensitive financial, personnel, and Board-related information are restricted, according to Museum policy.</p>
+                </accessrestrict>
+                <c id="ref49" level="file">
+                    <did>
+                        <unittitle>Correspondence with members. Centennial Anniversary Committee.</unittitle>
+                        <container id="cid349004" type="box" label="Mixed materials">2</container>
+                        <container parent="cid349004" type="folder">1</container>
+                        <unitdate normal="1966/1968" type="inclusive">January 1966-March 1968</unitdate>
+                    </did>
+                    <odd id="ref87">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Access note</emph>: Redacted copies of documents with salary information replace originals in this folder. Restricted documents may be accessed on or after September 6, 2051 at the discretion of Archives staff.</p>
+                    </odd>
+                </c>
+                <c id="ref19" level="file">
+                    <did>
+                        <unittitle>Correspondence with members. Centennial Anniversary Committee.</unittitle>
+                        <container id="cid349007" type="box" label="Mixed materials">2</container>
+                        <container parent="cid349007" type="folder">2</container>
+                        <unitdate normal="1968/1968">April-October 1968</unitdate>
+                    </did>
+                    <odd id="ref86">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Access note</emph>: Redacted copies of documents with salary information replace originals in this folder. Restricted documents may be accessed on or after April 1, 2053 at the discretion of Archives staff.</p>
+                    </odd>
+                </c>
+                <c id="ref20" level="file">
+                    <did>
+                        <unittitle>Correspondence with members. Gifford, Walter S.</unittitle>
+                        <container id="cid349008" type="box" label="Mixed materials">2</container>
+                        <container parent="cid349008" type="folder">3</container>
+                        <unitdate normal="1950/1950">April-October 1950</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="ref6" level="series">
+                <did>
+                    <unittitle>Series II. Finance Committee Meetings</unittitle>
+                    <unitdate normal="1943/1969" type="inclusive">1943-1969</unitdate>
+                </did>
+                <accessrestrict id="ref144">
+                    <head>Conditions Governing Access note</head>
+                    <p>This series contains privileged financial information and is restricted, according to Museum policy.</p>
+                </accessrestrict>
+            </c>
+            <c id="ref5" level="series">
+                <did>
+                    <unittitle>Series III. General Files</unittitle>
+                    <unitdate>1929, 1943-1971</unitdate>
+                </did>
+                <relatedmaterial id="ref78">
+                    <head>Related Archival Materials note</head>
+                    <p>Museum Estates files, Office of the Secretary Records, Metropolitan Museum of Art Archives.</p>
+                </relatedmaterial>
+                <scopecontent id="ref71">
+                    <head>Scope and Contents note</head>
+                    <p>This series includes files related to the Metropolitan Museum's participation in the Cultural Institutions Group. Formed in 1869, the Cultural Institutions Group consists of representatives from privately endowed New York City cultural institutions that receive public funding, termed quasi-public institutions. The organization shares information on and lobbies for continued funding and benefits coverage from the City, including participation in city-operated pension plans for their employees. At this time, the Group consisted of representatives from the American Museum of Natural History, Brooklyn Academy of Music, Brooklyn Botanic Garden, The Brooklyn Institute of Arts and Sciences, the Brooklyn Museum, Children&#x2019;s Museum Brooklyn, The Metropolitan Museum of Art, The Museum of the City of New York, New York Aquarium, the New York Botanical Garden, the New York Public Library, New York Zoological Society, Staten Island Institute of Arts and Sciences, the Staten Island Museum, and the Staten Island Zoological Society.</p>
+                    <p>Also included are files documenting the Munsey Park residential real estate development. When millionaire investor, real estate speculator, and newspaper owner Frank A. Munsey died in 1925, the greater part of his estate, with a final value of close to ten million dollars, was left to The Metropolitan Museum of Art. It was the largest monetary gift to date that the Museum had received. The estate included ownership of the<emph render="italic">Sun-Herald</emph>newspaper, The Mohican Stores grocery chain, and real estate holdings in Manhasset, NY, on the north shore of Long Island. Under the leadership of Museum President Robert DeForest, the Metropolitan Museum developed part of the land into a planned residential community called Munsey Park. It featured Colonial-style houses and streets named after American artists. The community&#x2019;s first model home opened in 1928. By 1950 the Museum had sold the Munsey real estate interests to other developers, realizing an estimated four million dollars from these transactions.</p>
+                    <p>
+                        <emph render="bold">Works Consulted</emph>
+                    </p>
+                    <p>&#x201C;Art museum sold Sun and Telegram.&#x201D;<emph render="italic">New York Times</emph>, January 5, 1950.</p>
+                </scopecontent>
+                <c id="ref38" level="file">
+                    <did>
+                        <unittitle>Banking. Chase Bank (Manhattan, Paris).</unittitle>
+                        <container id="cid349029" type="box" label="Mixed materials">2</container>
+                        <container parent="cid349029" type="folder">4</container>
+                        <unitdate>1947, 1950, 1959</unitdate>
+                    </did>
+                    <odd id="ref88">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Access note</emph>: Redacted copies of documents with salary information replace originals in this folder. Restricted documents may be accessed on or after March 17, 2032, at the discretion of Archives staff.</p>
+                    </odd>
+                </c>
+                <c id="ref69" level="file">
+                    <did>
+                        <unittitle>Banking. Chemical Bank.</unittitle>
+                        <container id="cid349030" type="box" label="Mixed materials">2</container>
+                        <container parent="cid349030" type="folder">5</container>
+                        <unitdate normal="1959/1966" type="inclusive">1959, 1965-1966</unitdate>
+                    </did>
+                </c>
+                <c id="ref37" level="file">
+                    <did>
+                        <unittitle>Banking. Fifth Avenue Bank, Bank of New York.</unittitle>
+                        <container id="cid349028" type="box" label="Mixed materials">2</container>
+                        <container parent="cid349028" type="folder">6</container>
+                        <unitdate normal="1943/1968" type="inclusive">1943-1959, 1966, 1968</unitdate>
+                    </did>
+                </c>
+                <c id="ref7" level="file">
+                    <did>
+                        <unittitle>Banking. Morgan Guaranty Trust.</unittitle>
+                        <container id="cid349032" type="box" label="Mixed materials">4</container>
+                        <container parent="cid349032" type="folder">7</container>
+                        <unitdate normal="1945/1966" type="inclusive">1945, 1961-1966</unitdate>
+                    </did>
+                    <odd id="ref89">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Access note</emph>: Folder contains privileged financial information and is permanently restricted, according to Museum policy.</p>
+                    </odd>
+                </c>
+                <c id="ref70" level="file">
+                    <did>
+                        <unittitle>Banking. U.S. Trust Co.</unittitle>
+                        <container id="cid349033" type="box" label="Mixed materials">4</container>
+                        <container parent="cid349033" type="folder">8</container>
+                        <unitdate normal="1952/1965" type="inclusive">1952-1965</unitdate>
+                    </did>
+                    <odd id="ref90">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Access note</emph>: Folder contains privileged financial information and is permanently restricted, according to Museum policy.</p>
+                    </odd>
+                </c>
+                <c id="ref24" level="file">
+                    <did>
+                        <unittitle>Benefits. Fringe benefit survey.</unittitle>
+                        <container id="cid349034" type="box" label="Mixed materials">2</container>
+                        <container parent="cid349034" type="folder">7</container>
+                        <unitdate normal="1964/1971" type="inclusive">1964-1971</unitdate>
+                    </did>
+                    <odd id="ref123">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Access note</emph>: Documents with privileged financial information have been removed from this folder.</p>
+                    </odd>
+                    <odd id="ref68">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">See also</emph>: See also: III. General Files/ f. Cultural Institutions Group, 1964-1968 (5 folders).</p>
+                    </odd>
+                </c>
+                <c id="ref25" level="file">
+                    <did>
+                        <unittitle>Benefits. Fringe benefit survey. Report to Board of Trustees.</unittitle>
+                        <container id="cid349036" type="box" label="Mixed materials">4</container>
+                        <container parent="cid349036" type="folder">10</container>
+                        <unitdate normal="1964/1968" type="inclusive">1964-1968</unitdate>
+                    </did>
+                    <odd id="ref125">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Access note</emph>: Folder contains privileged financial information and is permanently restricted, according to Museum policy.</p>
+                    </odd>
+                </c>
+                <c id="ref11" level="file">
+                    <did>
+                        <unittitle>Benefits. Retirement of women age 60 vs. 65.</unittitle>
+                        <container id="cid352011" type="box" label="Mixed materials">5</container>
+                        <container parent="cid352011" type="folder">1</container>
+                        <unitdate normal="1948/1952" type="inclusive">1948-1952</unitdate>
+                    </did>
+                    <odd id="ref91">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Access note</emph>: Folder contains privileged financial information and is permanently restricted, according to Museum policy.</p>
+                    </odd>
+                </c>
+                <c id="ref44" level="file">
+                    <did>
+                        <unittitle>Benefits. Retirement plan, Aetna.</unittitle>
+                        <container id="cid352003" type="box" label="Mixed materials">2</container>
+                        <container parent="cid352003" type="folder">8</container>
+                        <unitdate normal="1965/1965">July 1, 1965</unitdate>
+                    </did>
+                </c>
+                <c id="ref45" level="file">
+                    <did>
+                        <unittitle>Benefits. Wage continuation plan.</unittitle>
+                        <container id="cid352005" type="box" label="Mixed materials">2</container>
+                        <container parent="cid352005" type="folder">9</container>
+                        <unitdate normal="1955/1957" type="inclusive">1955-1957</unitdate>
+                    </did>
+                </c>
+                <c id="ref42" level="file">
+                    <did>
+                        <unittitle>Casts and reproduction. Alva Studios.</unittitle>
+                        <container id="cid352002" type="box" label="Mixed materials">2</container>
+                        <container parent="cid352002" type="folder">10</container>
+                        <unitdate normal="1946/1948" type="inclusive">1946-1948</unitdate>
+                    </did>
+                </c>
+                <c id="ref43" level="file">
+                    <did>
+                        <unittitle>Cloisters. Planting plan, from Olmstead Brothers.</unittitle>
+                        <container id="cid352004" type="box" label="Mixed materials">2</container>
+                        <container parent="cid352004" type="folder">11</container>
+                        <unitdate normal="1960/1960">April-May 1960</unitdate>
+                    </did>
+                    <odd id="ref127">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Note</emph>: Oversized plan has been removed to flat file 18, drawer 1, folder 13.</p>
+                    </odd>
+                </c>
+                <c id="ref126" level="file">
+                    <did>
+                        <unittitle>Cloisters. Planting plan, from Olmstead Brothers. Oversized annotated planting map.</unittitle>
+                        <container id="cid352001" type="flat-file" label="Mixed materials">18/drawer 1</container>
+                        <container parent="cid352001" type="folder">13</container>
+                    </did>
+                    <odd id="ref128">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Note</emph>: Oversized material removed from box 2, folder 11.</p>
+                    </odd>
+                </c>
+                <c id="ref31" level="file">
+                    <did>
+                        <unittitle>Cultural Institutions Group.</unittitle>
+                        <container id="cid352007" type="box" label="Mixed materials">2</container>
+                        <container parent="cid352007" type="folder">12</container>
+                        <unitdate normal="1960/1961" type="inclusive">May 1960-November 1961</unitdate>
+                    </did>
+                    <odd id="ref131">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Note</emph>: Oversized materials have been removed to flat-file 18, drawer 1, folder 13.</p>
+                    </odd>
+                </c>
+                <c id="ref129" level="file">
+                    <did>
+                        <unittitle>Cultural Institutions Group. Oversized spreadsheets.</unittitle>
+                        <container id="cid352006" type="flat-file" label="Mixed materials">18/drawer 1</container>
+                        <container parent="cid352006" type="folder">13</container>
+                        <unitdate normal="1960/1960">September 15, 1960</unitdate>
+                    </did>
+                    <odd id="ref130">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Note</emph>: Oversized materials removed from box 2, folder 12.</p>
+                    </odd>
+                </c>
+                <c id="ref32" level="file">
+                    <did>
+                        <unittitle>Cultural Institutions Group.</unittitle>
+                        <container id="cid352008" type="box" label="Mixed materials">2</container>
+                        <container parent="cid352008" type="folder">13</container>
+                        <unitdate normal="1962/1962">1962</unitdate>
+                    </did>
+                    <odd id="ref132">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Note</emph>: Oversized material has been removed to flat-file 18, drawer 1, folder 13.</p>
+                    </odd>
+                </c>
+                <c id="ref133" level="file">
+                    <did>
+                        <unittitle>Cultural Institutions Group. Oversized spreadsheet.</unittitle>
+                        <container id="cid352031" type="flat-file" label="Mixed materials">18/drawer 1</container>
+                        <container parent="cid352031" type="folder">13</container>
+                        <unitdate normal="1962/1962">[1962]</unitdate>
+                    </did>
+                    <odd id="ref134">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Note</emph>: Oversized material removed from box 2, folder 13.</p>
+                    </odd>
+                </c>
+                <c id="ref33" level="file">
+                    <did>
+                        <unittitle>Cultural Institutions Group.</unittitle>
+                        <container id="cid352009" type="box" label="Mixed materials">2</container>
+                        <container parent="cid352009" type="folder">14</container>
+                        <unitdate normal="1963/1963">1963</unitdate>
+                    </did>
+                </c>
+                <c id="ref34" level="file">
+                    <did>
+                        <unittitle>Cultural Institutions Group.</unittitle>
+                        <container id="cid352017" type="box" label="Mixed materials">2</container>
+                        <container parent="cid352017" type="folder">15</container>
+                        <unitdate normal="1964/1964">1964</unitdate>
+                    </did>
+                    <odd id="ref136">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Note</emph>: Oversized materials have been removed to flat-file 18, drawer 1, folder 13.</p>
+                    </odd>
+                </c>
+                <c id="ref135" level="file">
+                    <did>
+                        <unittitle>Cultural Institutions Group. Oversized spreadsheets.</unittitle>
+                        <container id="cid359001" type="flat-file" label="Mixed materials">18/drawer 1</container>
+                        <container parent="cid359001" type="folder">13</container>
+                        <unitdate normal="1964/1964">[1964]</unitdate>
+                    </did>
+                    <odd id="ref137">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Note</emph>: Oversized materials removed from box 2, folder 15.</p>
+                    </odd>
+                </c>
+                <c id="ref35" level="file">
+                    <did>
+                        <unittitle>Cultural Institutions Group.</unittitle>
+                        <container id="cid352018" type="box" label="Mixed materials">6</container>
+                        <container parent="cid352018" type="folder">1</container>
+                        <unitdate normal="1965/1965">1965</unitdate>
+                    </did>
+                </c>
+                <c id="ref36" level="file">
+                    <did>
+                        <unittitle>Cultural Institutions Group.</unittitle>
+                        <container id="cid352019" type="box" label="Mixed materials">6</container>
+                        <container parent="cid352019" type="folder">2</container>
+                        <unitdate normal="1966/1967" type="inclusive">1966-1967</unitdate>
+                    </did>
+                </c>
+                <c id="ref8" level="file">
+                    <did>
+                        <unittitle>Cultural Institutions Group. New York City Cultural Council. Correspondence and memos.</unittitle>
+                        <container id="cid352010" type="box" label="Mixed materials">6</container>
+                        <container parent="cid352010" type="folder">3</container>
+                        <unitdate normal="1968/1968">March-April 1968</unitdate>
+                    </did>
+                </c>
+                <c id="ref48" level="file">
+                    <did>
+                        <unittitle>Grace Rainey Rogers Auditorium. Plans by Voorhees Walker Foley &amp; Smith, architects and engineers.</unittitle>
+                        <container id="cid352021" type="box" label="Mixed materials">6</container>
+                        <container parent="cid352021" type="folder">4</container>
+                        <unitdate normal="1951/1951">June 11, 1951</unitdate>
+                    </did>
+                </c>
+                <c id="ref26" level="file">
+                    <did>
+                        <unittitle>Insurance. Aetna Life Insurance.</unittitle>
+                        <container id="cid352015" type="box" label="Mixed materials">6</container>
+                        <container parent="cid352015" type="folder">5</container>
+                        <unitdate normal="1966/1967" type="inclusive">1966-1967</unitdate>
+                    </did>
+                </c>
+                <c id="ref12" level="file">
+                    <did>
+                        <unittitle>Munsey bequest. Sun Herald Corporation.</unittitle>
+                        <container id="cid352012" type="box" label="Mixed materials">6</container>
+                        <container parent="cid352012" type="folder">6</container>
+                        <unitdate normal="1960/1961" type="inclusive">November 1960-October 1961</unitdate>
+                    </did>
+                </c>
+                <c id="ref23" level="file">
+                    <did>
+                        <unittitle>Munsey Park. Correspondence to DeForest and Elder.</unittitle>
+                        <container id="cid352014" type="box" label="Mixed materials">6</container>
+                        <container parent="cid352014" type="folder">7</container>
+                        <unitdate normal="1938/1945" type="inclusive">1938-1945</unitdate>
+                    </did>
+                </c>
+                <c id="ref39" level="file">
+                    <did>
+                        <unittitle>Munsey Park. Limidend Housing Corporation, agent.</unittitle>
+                        <container id="cid352020" type="box" label="Mixed materials">6</container>
+                        <container parent="cid352020" type="folder">8</container>
+                        <unitdate normal="1928/1929" type="inclusive">1928-1929</unitdate>
+                    </did>
+                </c>
+                <c id="ref15" level="file">
+                    <did>
+                        <unittitle>Personnel. Human Rights Commission. Ethnic employment survey.</unittitle>
+                        <container id="cid352013" type="box" label="Mixed materials">6</container>
+                        <container parent="cid352013" type="folder">9</container>
+                        <unitdate normal="1963/1963">1963</unitdate>
+                    </did>
+                </c>
+                <c id="ref28" level="file">
+                    <did>
+                        <unittitle>Personnel. Priest, Alan.</unittitle>
+                        <container id="cid352016" type="box" label="Mixed materials">5</container>
+                        <container parent="cid352016" type="folder">2</container>
+                        <unitdate normal="1960/1964" type="inclusive">1960-1964</unitdate>
+                    </did>
+                    <odd id="ref80">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Access note</emph>: Folder contains confidential personnel information and is restricted permanently, according to Museum policy.</p>
+                    </odd>
+                </c>
+                <c id="ref27" level="file">
+                    <did>
+                        <unittitle>Personnel. Priest, Alan. Litigation.</unittitle>
+                        <container id="cid352022" type="box" label="Mixed materials">5</container>
+                        <container parent="cid352022" type="folder">3</container>
+                        <unitdate normal="1963/1964" type="inclusive">1963-1964</unitdate>
+                    </did>
+                    <odd id="ref81">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Access note</emph>: Folder contains confidential personnel information and is restricted permanently, according to Museum policy.</p>
+                    </odd>
+                </c>
+                <c id="ref30" level="file">
+                    <did>
+                        <unittitle>Publications. Report on picture books by Sterling A. Callisen.</unittitle>
+                        <container id="cid352025" type="box" label="Mixed materials">6</container>
+                        <container parent="cid352025" type="folder">10</container>
+                        <unitdate>May 3, 1950</unitdate>
+                    </did>
+                </c>
+                <c id="ref29" level="file">
+                    <did>
+                        <unittitle>Publications. Report on policy by Marshall Davidson.</unittitle>
+                        <container id="cid352024" type="box" label="Mixed materials">6</container>
+                        <container parent="cid352024" type="folder">11</container>
+                        <unitdate normal="1948/1948">September 1948</unitdate>
+                    </did>
+                </c>
+                <c id="ref13" level="file">
+                    <did>
+                        <unittitle>Rewald, John, transactions including 1946 purchase from Mrs. Lucien Pissaro.</unittitle>
+                        <container id="cid352023" type="box" label="Mixed materials">6</container>
+                        <container parent="cid352023" type="folder">12</container>
+                        <unitdate normal="1946/1947" type="inclusive">October 1946-July 1947</unitdate>
+                    </did>
+                </c>
+                <c id="ref46" level="file">
+                    <did>
+                        <unittitle>Treasurer's office. Resolution and governance.</unittitle>
+                        <container id="cid352026" type="box" label="Mixed materials">6</container>
+                        <container parent="cid352026" type="folder">13</container>
+                        <unitdate normal="1929/1929">May 1929</unitdate>
+                    </did>
+                    <odd id="ref47">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Note</emph>: From the files of H.W. Kent who served as The Metropolitan Museum of Art's Secretary from 1913 to 1940.</p>
+                    </odd>
+                </c>
+                <c id="ref22" level="file">
+                    <did>
+                        <unittitle>War protection. Offsite storage Colorado Springs, West Point.</unittitle>
+                        <container id="cid352028" type="box" label="Mixed materials">6</container>
+                        <container parent="cid352028" type="folder">14</container>
+                        <unitdate normal="1950/1954" type="inclusive">1950-1954</unitdate>
+                    </did>
+                </c>
+                <c id="ref21" level="file">
+                    <did>
+                        <unittitle>War protection. Offsite storage Colorado Springs, West Point.</unittitle>
+                        <container id="cid352027" type="box" label="Mixed materials">6</container>
+                        <container parent="cid352027" type="folder">15</container>
+                        <unitdate normal="1955/1961" type="inclusive">1955-1958, 1961</unitdate>
+                    </did>
+                </c>
+                <c id="ref41" level="file">
+                    <did>
+                        <unittitle>Whitney Museum of Art. Merger.</unittitle>
+                        <container id="cid352030" type="box" label="Mixed materials">6</container>
+                        <container parent="cid352030" type="folder">16</container>
+                        <unitdate normal="1944/1948" type="inclusive">1944-1948</unitdate>
+                    </did>
+                    <odd id="ref141">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Note</emph>: Oversized materials have been removed to flat-file 18, drawer 1, folder 13.</p>
+                    </odd>
+                </c>
+                <c id="ref138" level="file">
+                    <did>
+                        <unittitle>Whitney Museum of Art. Merger. Oversized spreadsheets.</unittitle>
+                        <container id="cid352032" type="flat-file" label="Mixed materials">18/drawer 1</container>
+                        <container parent="cid352032" type="folder">13</container>
+                        <unitdate normal="1940/1944" type="inclusive">1940-1944</unitdate>
+                    </did>
+                    <odd id="ref139">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Note</emph>: Oversized materials removed from box 6, folder 16.</p>
+                    </odd>
+                </c>
+                <c id="ref40" level="file">
+                    <did>
+                        <unittitle>Whitney Museum of Art. Suspense account.</unittitle>
+                        <container id="cid352029" type="box" label="Mixed materials">6</container>
+                        <container parent="cid352029" type="folder">17</container>
+                        <unitdate normal="1943/1948" type="inclusive">1943-1948</unitdate>
+                    </did>
+                    <odd id="ref140">
+                        <head>General note</head>
+                        <p>
+                            <emph render="italic">Access note</emph>: Redacted copies of documents with salary information replace originals in this folder. Restricted documents may be accessed on or after January 1, 2033 at the discretion of Archives staff.</p>
+                    </odd>
+                </c>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>

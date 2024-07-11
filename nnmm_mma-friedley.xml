@@ -1,0 +1,1320 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid mainagencycode="US-nnmm" url="file:/usr/local/projects/migration_scripts/nyead/ead/nnmm/MMA-Friedley.xml">nnmm_mma-friedley</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding Aid to the Durr Friedley Records, 1906-1918<num>Archives.Friedley.1</num>
+                </titleproper>
+                <titleproper type="filing">Durr Friedley Records, 1906-1918</titleproper>
+                <author>Finding aid prepared by Brigid Harmon</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>The Metropolitan Museum of Art Archives</publisher>
+                <address>
+                    <addressline>1000 Fifth Avenue</addressline>
+                    <addressline>New York, NY, 10028-0198</addressline>
+                    <addressline>212-570-3937</addressline>
+                    <addressline>archives@metmuseum.org</addressline>
+                </address>
+                <date>December, 2009</date>
+            </publicationstmt>
+            <notestmt>
+                <note>
+                    <p>Preservation concerns still need to be addressed for some of the materials including telegrams, oversized photographs, blueprints and newspaper clippings. B.1/F.1- photographs B.1/F.7- telegram B.1/F.22- newspaper clippings B.8- pressed seals in small box</p>
+                    <p>Blueprints of Swam Room and Friedley's American Wing plans- final location in flat files needs to be recorded.</p>
+                    <p>Folders with correspondence relating to purchases have been flagged for further investigation. Accession numbers still need to be recorded.</p>
+                </note>
+            </notestmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit<date>2013-12-20T09:13-0500</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Durr Friedley Records</unittitle>
+            <unitid>Archives.Friedley.1</unitid>
+            <repository>
+                <corpname>The Metropolitan Museum of Art Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>3.0 Linear feet</extent>
+                <extent>(8 boxes)</extent>
+            </physdesc>
+            <unitdate normal="1914/1917" type="bulk">Bulk, 1914-1917</unitdate>
+            <unitdate normal="1906/1918" type="inclusive">1906-1918</unitdate>
+            <abstract id="ref160" label="Abstract">Durr Friedley was a staff member of the Department of Decorative Arts of The Metropolitan Museum of Art from 1911 until 1917, serving as an assistant, Assistant Curator and Acting Curator. Records consist primarily of correspondence regarding prospective Museum acquisitions. Items of special interest include letters concerning the Museum&#x2019;s acquisition of early American colonial furnishings, later displayed in the American Wing.</abstract>
+            <origination label="creator">
+                <persname rules="dacs" source="naf">Breck, Joseph, b. 1885</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr2" source="naf">Kent, Henry Watson, 1866-1948</persname>
+            </origination>
+        </did>
+        <scopecontent id="ref165">
+            <head>Scope and Contents note</head>
+            <p>Records include letters regarding potential Museum acquisitions exchanged by Durr Friedley with dealers and private owners of decorative arts objects. There are also some letters from the desks of other Decorative Arts Department staff, notably Assistant Curator Russell A. Plimpton (see Series 2). Prominent dealers and collectors represented include Duveen Brothers, Judge A.T. Clearwater and White, Allom and Company. There are a few personal letters, and a small amount of correspondence from before and after Friedley&#x2019;s service at the Museum. Also included are collection inventory lists, handwritten notes regarding museum objects, photographs and typescript essays by Friedley and other Museum staff. There is substantial documentation regarding the acquisition by the Museum of colonial interiors and period rooms, and planning for the proposed American Wing. The records also include correspondence between Friedley and other members of the Museum administration including Secretary Henry Watson Kent and Director Edward Robinson.</p>
+        </scopecontent>
+        <relatedmaterial id="ref164">
+            <head>Related Archival Materials note</head>
+            <p>The records include correspondence relating to many objects eventually acquired by the Museum; when it has been possible to identify these, a note including the object accession number has been added to the relevant entry in the Container List. The Museum Archives or curatorial departments may have additional documentation regarding these objects. Consult Archives staff for further information. Additional files of interest include:</p>
+            <p>Durr Friedley Correspondence File, Office of the Secretary Records, The Metropolitan Museum of Art Archives.</p>
+            <p>Russell A. Plimpton Correspondence File, Office of the Secretary Records, The Metropolitan Museum of Art Archives.</p>
+        </relatedmaterial>
+        <prefercite id="ref163">
+            <head>Preferred Citation note</head>
+            <p>[Title of Item], [Date of Item], Box [Number], Folder [Number], Durr Friedley Records, The Metropolitan Museum of Art Archives.</p>
+        </prefercite>
+        <arrangement id="ref166">
+            <head>Arrangement note</head>
+            <p>Prior to processing, the Durr Friedley Records were organized into three series. The first was Durr Friedley correspondence and subject files dating mostly from 1911-1916, but also including a few earlier documents. The second was Durr Friedley correspondence and subject files dating from 1916-1917. The third series was correspondence and subject files of Russell A. Plimpton. The Plimpton series has been maintained while the two Friedley series have been integrated because of general similarities in content and the presence of correspondence that overlapped the chronological break.</p>
+            <p>Presently, the Durr Friedley Records consist of two series:</p>
+            <p>Series 1. Durr Friedley Files Series 2. Russell A. Plimpton Files</p>
+            <p>Both series are arranged alphabetically by corporate name, personal name or subject. Documents within files are arranged chronologically.</p>
+        </arrangement>
+        <bioghist id="ref161">
+            <head>Biographical/Historical note</head>
+            <p>Curator and artist Durr Friedley (1888-1938) was born in Indianapolis, Indiana and received a degree in Fine Arts from Harvard University in 1911. (At Harvard and later in life his surname was spelled Freedley; in records from his time at The Metropolitan Museum of Art it consistently appears as Friedley.) He joined the staff of the Metropolitan Museum of Art in October, 1911, as an assistant in the Department of Decorative Arts. In 1912, after favorable recommendations by colleagues, Friedley was appointed Assistant Curator. He was promoted to Acting Curator in 1914 when the department&#x2019;s Curator, Dr. Wilhelm R. Valentiner, took a leave of absence to enlist in the German army. Valentiner resigned from the Metropolitan in 1917 and Friedley was offered the post of Curator, but he declined and instead announced his own departure from the Museum.</p>
+            <p>During his time at the Museum, Friedley was involved with the acquisition and exhibition of a wide range of decorative arts objects. He corresponded extensively with collectors and dealers who owned items of interest to the Museum, and assessed objects under consideration by the Purchasing Committee of the Board of Trustees. Towards the end of his tenure, he worked intensively on the acquisition of colonial American interiors and objects intended for exhibition in the Museum&#x2019;s planned American Wing. Shortly after leaving the Metropolitan, Friedley drew a set of architectural plans for the proposed American Wing, but they were never used.</p>
+            <p>In 1918, Friedley served in the U.S. Army as a member of the Aviation Section, U.S. Signal Corps (renamed in May 1918 the Division of Military Aeronautics) painting camouflage on war planes. During the 1920s he spent time in Europe as a portrait painter. He eventually returned to the United States and settled in Newport, Rhode Island, where he continued his career as a portrait painter and muralist. He was commissioned to paint the interiors of the Memorial Chapel at the Seaman&#x2019;s Church Institute of Newport in 1930. Friedley died in a car accident in March of 1938 at the age of fifty. Memorial exhibitions of his artwork were held at the John Herron Art Institute (now the Indianapolis Museum of Art) in November 1938 and at the Walker Galleries in New York City in early 1939.</p>
+            <p/>
+            <p/>
+        </bioghist>
+        <accessrestrict id="ref159">
+            <head>Conditions Governing Access note</head>
+            <p>Archives staff regarding permission to quote or reproduce.</p>
+        </accessrestrict>
+        <bibliography id="ref169">
+            <head>Bibliography</head>
+            <p>Klaiman, Marianna Garthwaite &amp; Wagner, Mary Kennedy, &#x201C;Durr Freedley: An American master in English Art&#x201D; The Magazine Antiques. June 2006; 169,6. Tomkins, Calvin. Merchants and Masterpieces: The Story of the Metropolitan Museum of Art. New York: Henry Holt and Company, 1989.</p>
+        </bibliography>
+        <controlaccess>
+            <corpname rules="aacr2" source="naf">Metropolitan Museum of Art (New York, N.Y.). American Wing.</corpname>
+            <genreform source="aat">Correspondence</genreform>
+            <subject source="lcsh">Decorative arts</subject>
+            <subject source="lcsh">Decorative Arts--United States--History-20th Century--Exhibitions</subject>
+            <subject source="lcsh">Decorative arts--United States.</subject>
+        </controlaccess>
+        <dsc>
+            <c id="ref1" level="series">
+                <did>
+                    <unittitle>Series 1. Durr Friedley Files</unittitle>
+                    <unitdate normal="1914/1917" type="bulk">Bulk, 1914-1917</unitdate>
+                    <unitdate normal="1906/1917" type="inclusive">1906-1917</unitdate>
+                </did>
+                <c id="ref193" level="file">
+                    <did>
+                        <unittitle>A,</unittitle>
+                        <container id="cid28001" type="box" label="Mixed materials">1</container>
+                        <container parent="cid28001" type="folder">1</container>
+                        <unitdate normal="1912/1917" type="inclusive">1912-1917</unitdate>
+                    </did>
+                    <odd id="ref194">
+                        <head>General note</head>
+                        <p>Regarding January-May 1915 letters from Charles Allom see also: Swan Room blueprints in Museum Archives flat files, and White, Allom &amp; Company letters in White-Wy, 1912-1917 B.6/F.8.</p>
+                    </odd>
+                </c>
+                <c id="ref11" level="file">
+                    <did>
+                        <unittitle>Altman Guide,</unittitle>
+                        <container id="cid22020" type="box" label="Mixed materials">1</container>
+                        <container parent="cid22020" type="folder">2-3</container>
+                        <unitdate>n.d</unitdate>
+                    </did>
+                </c>
+                <c id="ref15" level="file">
+                    <did>
+                        <unittitle>American Art Galleries,</unittitle>
+                        <container id="cid22005" type="box" label="Mixed materials">1</container>
+                        <container parent="cid22005" type="folder">4</container>
+                        <unitdate normal="1915/1916" type="inclusive">1915-1916</unitdate>
+                    </did>
+                </c>
+                <c id="ref16" level="file">
+                    <did>
+                        <unittitle>Ames, Frederic A.,</unittitle>
+                        <container id="cid22006" type="box" label="Mixed materials">1</container>
+                        <container parent="cid22006" type="folder">5</container>
+                        <unitdate normal="1915/1916" type="inclusive">1915-1916</unitdate>
+                    </did>
+                </c>
+                <c id="ref105" level="file">
+                    <did>
+                        <unittitle>Arnold Seligmann, Rey &amp; Company, Inc.,</unittitle>
+                        <container id="cid25068" type="box" label="Mixed materials">1</container>
+                        <container parent="cid25068" type="folder">6</container>
+                        <unitdate normal="1916/1917" type="inclusive">1916-1917</unitdate>
+                    </did>
+                    <odd id="ref195">
+                        <head>General note</head>
+                        <p>Includes February 1917 letters regarding Museum accessions 17.40.1-2</p>
+                    </odd>
+                </c>
+                <c id="ref17" level="file">
+                    <did>
+                        <unittitle>Ba-Bl,</unittitle>
+                        <container id="cid22007" type="box" label="Mixed materials">1</container>
+                        <container parent="cid22007" type="folder">7</container>
+                        <unitdate normal="1911/1917" type="inclusive">1911-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref18" level="file">
+                    <did>
+                        <unittitle>Barnard, George Gray,</unittitle>
+                        <container id="cid22008" type="box" label="Mixed materials">1</container>
+                        <container parent="cid22008" type="folder">8</container>
+                        <unitdate normal="1913/1917" type="inclusive">1913-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref19" level="file">
+                    <did>
+                        <unittitle>Barney, Charles T.,</unittitle>
+                        <container id="cid22009" type="box" label="Mixed materials">1</container>
+                        <container parent="cid22009" type="folder">9</container>
+                        <unitdate normal="1912/1912">1912</unitdate>
+                    </did>
+                </c>
+                <c id="ref20" level="file">
+                    <did>
+                        <unittitle>Barney, James Whitney,</unittitle>
+                        <container id="cid22010" type="box" label="Mixed materials">1</container>
+                        <container parent="cid22010" type="folder">10</container>
+                        <unitdate normal="1915/1916" type="inclusive">1915-1916</unitdate>
+                    </did>
+                    <odd id="ref199">
+                        <head>General note</head>
+                        <p>See also: P.W. French &amp; Company, 1915-1917 B.4/F.16</p>
+                    </odd>
+                </c>
+                <c id="ref21" level="file">
+                    <did>
+                        <unittitle>Beilouny, Gabriel,</unittitle>
+                        <container id="cid22011" type="box" label="Mixed materials">1</container>
+                        <container parent="cid22011" type="folder">11</container>
+                        <unitdate normal="1914/1917" type="inclusive">1914-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref22" level="file">
+                    <did>
+                        <unittitle>Bennett, J. Albert,</unittitle>
+                        <container id="cid22012" type="box" label="Mixed materials">1</container>
+                        <container parent="cid22012" type="folder">12</container>
+                        <unitdate normal="1915/1916" type="inclusive">1915-1916</unitdate>
+                    </did>
+                </c>
+                <c id="ref23" level="file">
+                    <did>
+                        <unittitle>Birckhead, Mrs. P.M.,</unittitle>
+                        <container id="cid22013" type="box" label="Mixed materials">1</container>
+                        <container parent="cid22013" type="folder">13</container>
+                        <unitdate normal="1917/1917">1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref24" level="file">
+                    <did>
+                        <unittitle>Blanks, purchase - Miscellaneous drafts and duplicates,</unittitle>
+                        <container id="cid22014" type="box" label="Mixed materials">1</container>
+                        <container parent="cid22014" type="folder">14-15</container>
+                        <unitdate normal="1916/1917" type="inclusive">1916-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref26" level="file">
+                    <did>
+                        <unittitle>Blumenthal, George,</unittitle>
+                        <container id="cid22016" type="box" label="Mixed materials">1</container>
+                        <container parent="cid22016" type="folder">16</container>
+                        <unitdate normal="1916/1917" type="inclusive">1916-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref27" level="file">
+                    <did>
+                        <unittitle>Bo-By,</unittitle>
+                        <container id="cid22017" type="box" label="Mixed materials">1</container>
+                        <container parent="cid22017" type="folder">17</container>
+                        <unitdate normal="1914/1917" type="inclusive">1914-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref28" level="file">
+                    <did>
+                        <unittitle>Breck, Joseph - Bulletin writings,</unittitle>
+                        <container id="cid22018" type="box" label="Mixed materials">1</container>
+                        <container parent="cid22018" type="folder">18</container>
+                        <unitdate normal="1916/1918" type="inclusive">1916,1918</unitdate>
+                    </did>
+                </c>
+                <c id="ref29" level="file">
+                    <did>
+                        <unittitle>Breck, Joseph - Miscellaneous writings,</unittitle>
+                        <container id="cid22019" type="box" label="Mixed materials">1</container>
+                        <container parent="cid22019" type="folder">19</container>
+                        <unitdate>n.d</unitdate>
+                    </did>
+                </c>
+                <c id="ref30" level="file">
+                    <did>
+                        <unittitle>Bowler House (Portsmith, R.I.),</unittitle>
+                        <container id="cid22021" type="box" label="Mixed materials">1</container>
+                        <container parent="cid22021" type="folder">20</container>
+                        <unitdate normal="1916/1916">1916</unitdate>
+                    </did>
+                </c>
+                <c id="ref31" level="file">
+                    <did>
+                        <unittitle>Ca-Com,</unittitle>
+                        <container id="cid22022" type="box" label="Mixed materials">1</container>
+                        <container parent="cid22022" type="folder">21</container>
+                        <unitdate normal="1911/1917" type="inclusive">1911-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref32" level="file">
+                    <did>
+                        <unittitle>Cabot House (Beverly, Mass.),</unittitle>
+                        <container id="cid22023" type="box" label="Mixed materials">1</container>
+                        <container parent="cid22023" type="folder">22</container>
+                        <unitdate normal="1917/1917">1917</unitdate>
+                    </did>
+                    <odd id="ref177">
+                        <head>General note</head>
+                        <p>See also Cousins, Frank 1912-1915 B.2/F.7</p>
+                    </odd>
+                </c>
+                <c id="ref33" level="file">
+                    <did>
+                        <unittitle>Canessa, C. &amp; E.,</unittitle>
+                        <container id="cid22024" type="box" label="Mixed materials">1</container>
+                        <container parent="cid22024" type="folder">23</container>
+                        <unitdate normal="1915/1917" type="inclusive">1915-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref34" level="file">
+                    <did>
+                        <unittitle>Carr, H.W.,</unittitle>
+                        <container id="cid22025" type="box" label="Mixed materials">1</container>
+                        <container parent="cid22025" type="folder">24</container>
+                        <unitdate normal="1916/1916">1916</unitdate>
+                    </did>
+                </c>
+                <c id="ref35" level="file">
+                    <did>
+                        <unittitle>Ceramics Report - Garrett Chatfield Pier,</unittitle>
+                        <container id="cid22026" type="box" label="Mixed materials">1</container>
+                        <container parent="cid22026" type="folder">25</container>
+                        <unitdate normal="1906/1907" type="inclusive">1906-1907</unitdate>
+                    </did>
+                </c>
+                <c id="ref36" level="file">
+                    <did>
+                        <unittitle>Clearwater, Hon. A.T.,</unittitle>
+                        <container id="cid22027" type="box" label="Mixed materials">1</container>
+                        <container parent="cid22027" type="folder">26</container>
+                        <unitdate normal="1913/1917" type="inclusive">1913-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref38" level="file">
+                    <did>
+                        <unittitle>Coles, Elizabeth U. - bequest,</unittitle>
+                        <container id="cid25001" type="box" label="Mixed materials">2</container>
+                        <container parent="cid25001" type="folder">1</container>
+                        <unitdate normal="1916/1916">1916</unitdate>
+                    </did>
+                    <odd id="ref176">
+                        <head>General note</head>
+                        <p>See also: Office of the Secretary Records Correspondence Files F.1-8 of Coles, Mrs. William - Collection, reagrding museum accession 92.1.*</p>
+                    </odd>
+                </c>
+                <c id="ref39" level="file">
+                    <did>
+                        <unittitle>Colton House (Longmeadow, Mass.),</unittitle>
+                        <container id="cid25002" type="box" label="Mixed materials">2</container>
+                        <container parent="cid25002" type="folder">2</container>
+                        <unitdate normal="1916/1916">1916</unitdate>
+                    </did>
+                </c>
+                <c id="ref40" level="file">
+                    <did>
+                        <unittitle>Con-Cu,</unittitle>
+                        <container id="cid25003" type="box" label="Mixed materials">2</container>
+                        <container parent="cid25003" type="folder">3</container>
+                        <unitdate normal="1912/1916" type="inclusive">1912-1916</unitdate>
+                    </did>
+                </c>
+                <c id="ref41" level="file">
+                    <did>
+                        <unittitle>Coomaraswamy, Ananda,</unittitle>
+                        <container id="cid25004" type="box" label="Mixed materials">2</container>
+                        <container parent="cid25004" type="folder">4</container>
+                        <unitdate normal="1916/1917" type="inclusive">1916-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref42" level="file">
+                    <did>
+                        <unittitle>Cooper Union,</unittitle>
+                        <container id="cid25005" type="box" label="Mixed materials">2</container>
+                        <container parent="cid25005" type="folder">5</container>
+                        <unitdate>n.d</unitdate>
+                    </did>
+                </c>
+                <c id="ref43" level="file">
+                    <did>
+                        <unittitle>Cornelius, C. O.,</unittitle>
+                        <container id="cid25006" type="box" label="Mixed materials">2</container>
+                        <container parent="cid25006" type="folder">6</container>
+                        <unitdate normal="1916/1917" type="inclusive">1916-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref44" level="file">
+                    <did>
+                        <unittitle>Cousins, Frank,</unittitle>
+                        <container id="cid25007" type="box" label="Mixed materials">2</container>
+                        <container parent="cid25007" type="folder">7</container>
+                        <unitdate normal="1912/1915" type="inclusive">1912-1915</unitdate>
+                    </did>
+                    <odd id="ref175">
+                        <head>General note</head>
+                        <p>See also: Flint, Frank, 1915-1916 B.2/F.18</p>
+                    </odd>
+                    <odd id="ref178">
+                        <head>General note</head>
+                        <p>See also: Cabot House (Beverly, Mass.), 1917 B.1/F.22</p>
+                    </odd>
+                </c>
+                <c id="ref45" level="file">
+                    <did>
+                        <unittitle>Da- Dob,</unittitle>
+                        <container id="cid25008" type="box" label="Mixed materials">2</container>
+                        <container parent="cid25008" type="folder">8</container>
+                        <unitdate normal="1911/1917" type="inclusive">1911-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref46" level="file">
+                    <did>
+                        <unittitle>Davis, Theodore M.,</unittitle>
+                        <container id="cid25009" type="box" label="Mixed materials">2</container>
+                        <container parent="cid25009" type="folder">9</container>
+                        <unitdate normal="1911/1915" type="inclusive">1911-1915</unitdate>
+                    </did>
+                </c>
+                <c id="ref47" level="file">
+                    <did>
+                        <unittitle>de Forest, Lockwood,</unittitle>
+                        <container id="cid25010" type="box" label="Mixed materials">2</container>
+                        <container parent="cid25010" type="folder">10</container>
+                        <unitdate normal="1912/1917" type="inclusive">1912-1917</unitdate>
+                    </did>
+                    <odd id="ref171">
+                        <head>General note</head>
+                        <p>Includes Oct. 22-Dec. 17 1917 letters from Mr. J. Spielberg regarding museum accessions 17.32.1-55 and 17.34.1-3</p>
+                    </odd>
+                </c>
+                <c id="ref48" level="file">
+                    <did>
+                        <unittitle>de Forest, Mrs. Emily &amp; Robert W.,</unittitle>
+                        <container id="cid25011" type="box" label="Mixed materials">2</container>
+                        <container parent="cid25011" type="folder">11</container>
+                        <unitdate normal="1914/1917" type="inclusive">1914-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref49" level="file">
+                    <did>
+                        <unittitle>Dod-Dy,</unittitle>
+                        <container id="cid25012" type="box" label="Mixed materials">2</container>
+                        <container parent="cid25012" type="folder">12</container>
+                        <unitdate normal="1912/1917" type="inclusive">1912-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref50" level="file">
+                    <did>
+                        <unittitle>Duveen Brothers,</unittitle>
+                        <container id="cid25013" type="box" label="Mixed materials">2</container>
+                        <container parent="cid25013" type="folder">13</container>
+                        <unitdate normal="1915/1917" type="inclusive">1915-1917</unitdate>
+                    </did>
+                    <odd id="ref196">
+                        <head>General note</head>
+                        <p>See also: Edson Bradley letters concerning tapestries in Bo-By, 1914-1917 B.1/F.17</p>
+                    </odd>
+                </c>
+                <c id="ref51" level="file">
+                    <did>
+                        <unittitle>E,</unittitle>
+                        <container id="cid25014" type="box" label="Mixed materials">2</container>
+                        <container parent="cid25014" type="folder">14</container>
+                        <unitdate normal="1912/1917" type="inclusive">1912-1917</unitdate>
+                    </did>
+                    <odd id="ref170">
+                        <head>General note</head>
+                        <p>Includes June 11, 1917 letter from Thomas Rush regarding museum accession 17.103*</p>
+                    </odd>
+                </c>
+                <c id="ref52" level="file">
+                    <did>
+                        <unittitle>F,</unittitle>
+                        <container id="cid25015" type="box" label="Mixed materials">2</container>
+                        <container parent="cid25015" type="folder">15</container>
+                        <unitdate normal="1912/1917" type="inclusive">1912-1917</unitdate>
+                    </did>
+                    <odd id="ref172">
+                        <head>General note</head>
+                        <p>Includes December 23, 1915 letter from Durr Friedley to Mrs. William J. Fitzgerald regarding museum accession 26.57*</p>
+                    </odd>
+                </c>
+                <c id="ref53" level="file">
+                    <did>
+                        <unittitle>Fergusona and other Oriental collections.</unittitle>
+                        <container id="cid25016" type="box" label="Mixed materials">2</container>
+                        <container parent="cid25016" type="folder">16</container>
+                        <unitdate normal="1912/1912">1912</unitdate>
+                    </did>
+                </c>
+                <c id="ref54" level="file">
+                    <did>
+                        <unittitle>Fixtures - Metal Display,</unittitle>
+                        <container id="cid25017" type="box" label="Mixed materials">2</container>
+                        <container parent="cid25017" type="folder">17</container>
+                        <unitdate>n.d</unitdate>
+                    </did>
+                </c>
+                <c id="ref55" level="file">
+                    <did>
+                        <unittitle>Flint, Frank,</unittitle>
+                        <container id="cid25018" type="box" label="Mixed materials">2</container>
+                        <container parent="cid25018" type="folder">18</container>
+                        <unitdate normal="1915/1916" type="inclusive">1915-1916</unitdate>
+                    </did>
+                    <odd id="ref173">
+                        <head>General note</head>
+                        <p>See also: Cousins, Frank ,1912-1915 B.2/F.7</p>
+                    </odd>
+                </c>
+                <c id="ref57" level="file">
+                    <did>
+                        <unittitle>Friedley, Durr,</unittitle>
+                        <container id="cid25020" type="box" label="Mixed materials">2</container>
+                        <container parent="cid25020" type="folder">19</container>
+                        <unitdate normal="1915/1917" type="inclusive">1915-1917</unitdate>
+                    </did>
+                    <odd id="ref192">
+                        <head>General note</head>
+                        <p>Primarily correspondence to and from Friedley and members of the Decorative Arts Dept. during periods when Friedley was away from the Museum.</p>
+                    </odd>
+                </c>
+                <c id="ref58" level="file">
+                    <did>
+                        <unittitle>Friedley, Durr - Bulletin writings,</unittitle>
+                        <container id="cid25021" type="box" label="Mixed materials">2</container>
+                        <container parent="cid25021" type="folder">20</container>
+                        <unitdate normal="1912/1917" type="inclusive">1912-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref59" level="file">
+                    <did>
+                        <unittitle>Friedley, Durr - Miscellaneous writings,</unittitle>
+                        <container id="cid25022" type="box" label="Mixed materials">2</container>
+                        <container parent="cid25022" type="folder">21</container>
+                        <unitdate>n.d</unitdate>
+                    </did>
+                </c>
+                <c id="ref60" level="file">
+                    <did>
+                        <unittitle>Foote, E.T.,</unittitle>
+                        <container id="cid25023" type="box" label="Mixed materials">3</container>
+                        <container parent="cid25023" type="folder">1</container>
+                        <unitdate normal="1916/1917" type="inclusive">1916-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref61" level="file">
+                    <did>
+                        <unittitle>Forbes, Edward,</unittitle>
+                        <container id="cid25024" type="box" label="Mixed materials">3</container>
+                        <container parent="cid25024" type="folder">2</container>
+                        <unitdate normal="1916/1917" type="inclusive">1916-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref62" level="file">
+                    <did>
+                        <unittitle>Ga-Grav,</unittitle>
+                        <container id="cid25025" type="box" label="Mixed materials">3</container>
+                        <container parent="cid25025" type="folder">3</container>
+                        <unitdate normal="1909/1917" type="inclusive">1909-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref63" level="file">
+                    <did>
+                        <unittitle>Gray-Gu,</unittitle>
+                        <container id="cid25026" type="box" label="Mixed materials">3</container>
+                        <container parent="cid25026" type="folder">4</container>
+                        <unitdate normal="1911/1917" type="inclusive">1911-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref64" level="file">
+                    <did>
+                        <unittitle>Griffith, C.H.E.,</unittitle>
+                        <container id="cid25027" type="box" label="Mixed materials">3</container>
+                        <container parent="cid25027" type="folder">5</container>
+                        <unitdate normal="1915/1915">1915</unitdate>
+                    </did>
+                </c>
+                <c id="ref65" level="file">
+                    <did>
+                        <unittitle>Ha-Hi,</unittitle>
+                        <container id="cid25028" type="box" label="Mixed materials">3</container>
+                        <container parent="cid25028" type="folder">6</container>
+                        <unitdate normal="1912/1917" type="inclusive">1912-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref66" level="file">
+                    <did>
+                        <unittitle>Halsey, R.T. Haynes,</unittitle>
+                        <container id="cid25029" type="box" label="Mixed materials">3</container>
+                        <container parent="cid25029" type="folder">7</container>
+                        <unitdate normal="1915/1917" type="inclusive">1915-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref67" level="file">
+                    <did>
+                        <unittitle>Harding, H. Wareham,</unittitle>
+                        <container id="cid25030" type="box" label="Mixed materials">3</container>
+                        <container parent="cid25030" type="folder">8</container>
+                        <unitdate normal="1915/1917" type="inclusive">1915-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref68" level="file">
+                    <did>
+                        <unittitle>Hearn-Hist,</unittitle>
+                        <container id="cid25031" type="box" label="Mixed materials">3</container>
+                        <container parent="cid25031" type="folder">9</container>
+                        <unitdate normal="1910/1917" type="inclusive">1910-1917</unitdate>
+                    </did>
+                    <odd id="ref181">
+                        <head>General note</head>
+                        <p>Includes Hearn item dated December 9, 1917 regarding museum accession 17.101*</p>
+                    </odd>
+                </c>
+                <c id="ref69" level="file">
+                    <did>
+                        <unittitle>Herter Looms,</unittitle>
+                        <container id="cid25032" type="box" label="Mixed materials">3</container>
+                        <container parent="cid25032" type="folder">10</container>
+                        <unitdate normal="1915/1917" type="inclusive">1915-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref70" level="file">
+                    <did>
+                        <unittitle>Ho-Hy,</unittitle>
+                        <container id="cid25033" type="box" label="Mixed materials">3</container>
+                        <container parent="cid25033" type="folder">11</container>
+                        <unitdate normal="1913/1917" type="inclusive">1913-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref71" level="file">
+                    <did>
+                        <unittitle>I,</unittitle>
+                        <container id="cid25034" type="box" label="Mixed materials">3</container>
+                        <container parent="cid25034" type="folder">12</container>
+                        <unitdate normal="1912/1917" type="inclusive">1912-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref72" level="file">
+                    <did>
+                        <unittitle>Indjoudjian, M.,</unittitle>
+                        <container id="cid25035" type="box" label="Mixed materials">3</container>
+                        <container parent="cid25035" type="folder">13</container>
+                        <unitdate normal="1915/1917" type="inclusive">1915-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref73" level="file">
+                    <did>
+                        <unittitle>Inquires on China,</unittitle>
+                        <container id="cid25036" type="box" label="Mixed materials">3</container>
+                        <container parent="cid25036" type="folder">14</container>
+                        <unitdate normal="1911/1914" type="inclusive">1911-1914</unitdate>
+                    </did>
+                </c>
+                <c id="ref74" level="file">
+                    <did>
+                        <unittitle>J,</unittitle>
+                        <container id="cid25037" type="box" label="Mixed materials">3</container>
+                        <container parent="cid25037" type="folder">15</container>
+                        <unitdate normal="1912/1917" type="inclusive">1912-1917</unitdate>
+                    </did>
+                    <odd id="ref183">
+                        <head>General note</head>
+                        <p>Includes June 29, 1916 Juillard letter from de Forest Brothers regarding museum accession 19.172*</p>
+                    </odd>
+                </c>
+                <c id="ref75" level="file">
+                    <did>
+                        <unittitle>K,</unittitle>
+                        <container id="cid25038" type="box" label="Mixed materials">3</container>
+                        <container parent="cid25038" type="folder">16</container>
+                        <unitdate normal="1913/1917" type="inclusive">1913-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref76" level="file">
+                    <did>
+                        <unittitle>Kelekian, Dikran,</unittitle>
+                        <container id="cid25039" type="box" label="Mixed materials">3</container>
+                        <container parent="cid25039" type="folder">17</container>
+                        <unitdate normal="1915/1917" type="inclusive">1915-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref77" level="file">
+                    <did>
+                        <unittitle>Kent, Henry Watson,</unittitle>
+                        <container id="cid25040" type="box" label="Mixed materials">3</container>
+                        <container parent="cid25040" type="folder">18</container>
+                        <unitdate normal="1914/1917" type="inclusive">1914-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref78" level="file">
+                    <did>
+                        <unittitle>Kindermann, C.H.F.,</unittitle>
+                        <container id="cid25041" type="box" label="Mixed materials">3</container>
+                        <container parent="cid25041" type="folder">19</container>
+                        <unitdate normal="1915/1917" type="inclusive">1915-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref79" level="file">
+                    <did>
+                        <unittitle>La-Le,</unittitle>
+                        <container id="cid25042" type="box" label="Mixed materials">3</container>
+                        <container parent="cid25042" type="folder">20</container>
+                        <unitdate normal="1912/1917" type="inclusive">1912-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref80" level="file">
+                    <did>
+                        <unittitle>Labels - Information regarding,</unittitle>
+                        <container id="cid25043" type="box" label="Mixed materials">4</container>
+                        <container parent="cid25043" type="folder">1</container>
+                        <unitdate normal="1912/1914" type="inclusive">1912-1914</unitdate>
+                    </did>
+                </c>
+                <c id="ref81" level="file">
+                    <did>
+                        <unittitle>Li-Ly,</unittitle>
+                        <container id="cid25044" type="box" label="Mixed materials">4</container>
+                        <container parent="cid25044" type="folder">2</container>
+                        <unitdate normal="1913/1917" type="inclusive">1913-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref82" level="file">
+                    <did>
+                        <unittitle>Library Lists - books added,</unittitle>
+                        <container id="cid25045" type="box" label="Mixed materials">4</container>
+                        <container parent="cid25045" type="folder">3-4</container>
+                        <unitdate normal="1915/1917" type="inclusive">1915-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref84" level="file">
+                    <did>
+                        <unittitle>Lists - miscellaneous,</unittitle>
+                        <container id="cid25047" type="box" label="Mixed materials">4</container>
+                        <container parent="cid25047" type="folder">5</container>
+                        <unitdate normal="1917/1917">1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref85" level="file">
+                    <did>
+                        <unittitle>Ma-Mc,</unittitle>
+                        <container id="cid25048" type="box" label="Mixed materials">4</container>
+                        <container parent="cid25048" type="folder">6</container>
+                        <unitdate normal="1913/1917" type="inclusive">1913-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref86" level="file">
+                    <did>
+                        <unittitle>McIlhenny, John D.,</unittitle>
+                        <container id="cid25049" type="box" label="Mixed materials">4</container>
+                        <container parent="cid25049" type="folder">7</container>
+                        <unitdate normal="1916/1917" type="inclusive">1916-1917</unitdate>
+                    </did>
+                    <odd id="ref197">
+                        <head>General note</head>
+                        <p>See also: Meyrick-Jones, F. &amp; L.M., 1916-1917 B.4/F.9</p>
+                    </odd>
+                </c>
+                <c id="ref87" level="file">
+                    <did>
+                        <unittitle>Me-Mu,</unittitle>
+                        <container id="cid25050" type="box" label="Mixed materials">4</container>
+                        <container parent="cid25050" type="folder">8</container>
+                        <unitdate normal="1912/1917" type="inclusive">1912-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref88" level="file">
+                    <did>
+                        <unittitle>Meyrick-Jones, F. &amp; L.M.,</unittitle>
+                        <container id="cid25051" type="box" label="Mixed materials">4</container>
+                        <container parent="cid25051" type="folder">9</container>
+                        <unitdate normal="1916/1917" type="inclusive">1916-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref89" level="file">
+                    <did>
+                        <unittitle>Monif, R. Khan,</unittitle>
+                        <container id="cid25052" type="box" label="Mixed materials">4</container>
+                        <container parent="cid25052" type="folder">10</container>
+                        <unitdate normal="1915/1917" type="inclusive">1915-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref90" level="file">
+                    <did>
+                        <unittitle>Morgan, J.P. - lists,</unittitle>
+                        <container id="cid25053" type="box" label="Mixed materials">4</container>
+                        <container parent="cid25053" type="folder">11</container>
+                        <unitdate normal="1916/1917" type="inclusive">1916-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref91" level="file">
+                    <did>
+                        <unittitle>Museum shipping pamphlets,</unittitle>
+                        <container id="cid25054" type="box" label="Mixed materials">4</container>
+                        <container parent="cid25054" type="folder">12</container>
+                        <unitdate>n.d</unitdate>
+                    </did>
+                </c>
+                <c id="ref92" level="file">
+                    <did>
+                        <unittitle>N,</unittitle>
+                        <container id="cid25055" type="box" label="Mixed materials">4</container>
+                        <container parent="cid25055" type="folder">13</container>
+                        <unitdate normal="1912/1917" type="inclusive">1912-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref93" level="file">
+                    <did>
+                        <unittitle>O,</unittitle>
+                        <container id="cid25056" type="box" label="Mixed materials">4</container>
+                        <container parent="cid25056" type="folder">14</container>
+                        <unitdate normal="1914/1917" type="inclusive">1914-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref94" level="file">
+                    <did>
+                        <unittitle>Oatway, H.,</unittitle>
+                        <container id="cid25057" type="box" label="Mixed materials">4</container>
+                        <container parent="cid25057" type="folder">15</container>
+                        <unitdate normal="1914/1917" type="inclusive">1914-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref56" level="file">
+                    <did>
+                        <unittitle>P.W. French &amp; Company,</unittitle>
+                        <container id="cid25019" type="box" label="Mixed materials">4</container>
+                        <container parent="cid25019" type="folder">16</container>
+                        <unitdate normal="1915/1917" type="inclusive">1915-1917</unitdate>
+                    </did>
+                    <odd id="ref198">
+                        <head>General note</head>
+                        <p>See also: Barney, James Whitney, 1915-1916 B.1/F.10</p>
+                    </odd>
+                </c>
+                <c id="ref95" level="file">
+                    <did>
+                        <unittitle>Pa-Pe,</unittitle>
+                        <container id="cid25058" type="box" label="Mixed materials">4</container>
+                        <container parent="cid25058" type="folder">17</container>
+                        <unitdate normal="1912/1916" type="inclusive">1912-1916</unitdate>
+                    </did>
+                </c>
+                <c id="ref97" level="file">
+                    <did>
+                        <unittitle>Parker, Elizabeth F. &amp; Alice P.,</unittitle>
+                        <container id="cid25060" type="box" label="Mixed materials">4</container>
+                        <container parent="cid25060" type="folder">18</container>
+                        <unitdate normal="1912/1916" type="inclusive">1912-1916</unitdate>
+                    </did>
+                </c>
+                <c id="ref188" level="item">
+                    <did>
+                        <unittitle>Parker Seals - imprints,</unittitle>
+                        <container id="cid27001" type="box" label="Mixed materials">8</container>
+                        <unitdate>n.d</unitdate>
+                    </did>
+                    <odd id="ref189">
+                        <head>General note</head>
+                        <p>See also: Parker, Elizabeth F. &amp; Alice P., 1912-1916 B.4/F.18</p>
+                    </odd>
+                </c>
+                <c id="ref98" level="file">
+                    <did>
+                        <unittitle>Ph-Pu,</unittitle>
+                        <container id="cid25061" type="box" label="Mixed materials">5</container>
+                        <container parent="cid25061" type="folder">1</container>
+                        <unitdate normal="1912/1917" type="inclusive">1912-1917</unitdate>
+                    </did>
+                    <odd id="ref185">
+                        <head>General note</head>
+                        <p>Includes July 30, 1915 letter to Mrs. Post and Oct. 21 1915 letter regarding museum accession 30.58.*</p>
+                    </odd>
+                </c>
+                <c id="ref99" level="file">
+                    <did>
+                        <unittitle>Q,</unittitle>
+                        <container id="cid25062" type="box" label="Mixed materials">5</container>
+                        <container parent="cid25062" type="folder">2</container>
+                        <unitdate normal="1912/1912">1912</unitdate>
+                    </did>
+                </c>
+                <c id="ref100" level="file">
+                    <did>
+                        <unittitle>R,</unittitle>
+                        <container id="cid25063" type="box" label="Mixed materials">5</container>
+                        <container parent="cid25063" type="folder">3</container>
+                        <unitdate normal="1912/1917" type="inclusive">1912-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref101" level="file">
+                    <did>
+                        <unittitle>Rathbone, Fredrick,</unittitle>
+                        <container id="cid25064" type="box" label="Mixed materials">5</container>
+                        <container parent="cid25064" type="folder">4</container>
+                        <unitdate normal="1912/1912">1912</unitdate>
+                    </did>
+                </c>
+                <c id="ref102" level="file">
+                    <did>
+                        <unittitle>Receipts,</unittitle>
+                        <container id="cid25065" type="box" label="Mixed materials">5</container>
+                        <container parent="cid25065" type="folder">5</container>
+                        <unitdate normal="1917/1917">1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref103" level="file">
+                    <did>
+                        <unittitle>Robinson, Edward (Director),</unittitle>
+                        <container id="cid25066" type="box" label="Mixed materials">5</container>
+                        <container parent="cid25066" type="folder">6</container>
+                        <unitdate normal="1914/1917" type="inclusive">1914-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref104" level="file">
+                    <did>
+                        <unittitle>Sa-Sl,</unittitle>
+                        <container id="cid25067" type="box" label="Mixed materials">5</container>
+                        <container parent="cid25067" type="folder">7</container>
+                        <unitdate normal="1914/1917" type="inclusive">1914-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref106" level="file">
+                    <did>
+                        <unittitle>Sm-Sw,</unittitle>
+                        <container id="cid25069" type="box" label="Mixed materials">5</container>
+                        <container parent="cid25069" type="folder">8</container>
+                        <unitdate normal="1912/1917" type="inclusive">1912-1917</unitdate>
+                    </did>
+                    <odd id="ref186">
+                        <head>General note</head>
+                        <p>Includes April 4, 1917 letter regarding museum accession 16.46.1-8</p>
+                    </odd>
+                </c>
+                <c id="ref107" level="file">
+                    <did>
+                        <unittitle>T,</unittitle>
+                        <container id="cid25070" type="box" label="Mixed materials">5</container>
+                        <container parent="cid25070" type="folder">9</container>
+                        <unitdate normal="1912/1917" type="inclusive">1912-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref108" level="file">
+                    <did>
+                        <unittitle>Tabbagh, George,</unittitle>
+                        <container id="cid25071" type="box" label="Mixed materials">5</container>
+                        <container parent="cid25071" type="folder">10</container>
+                        <unitdate normal="1916/1917" type="inclusive">1916-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref109" level="file">
+                    <did>
+                        <unittitle>Tapestry Catalogue,</unittitle>
+                        <container id="cid25072" type="box" label="Mixed materials">5</container>
+                        <container parent="cid25072" type="folder">11</container>
+                        <unitdate>n.d</unitdate>
+                    </did>
+                </c>
+                <c id="ref110" level="file">
+                    <did>
+                        <unittitle>Textiles,</unittitle>
+                        <container id="cid25073" type="box" label="Mixed materials">5</container>
+                        <container parent="cid25073" type="folder">12-13</container>
+                        <unitdate normal="1915/1915">1915</unitdate>
+                    </did>
+                </c>
+                <c id="ref112" level="file">
+                    <did>
+                        <unittitle>Thaw, Mrs. Benjamin,</unittitle>
+                        <container id="cid25075" type="box" label="Mixed materials">6</container>
+                        <container parent="cid25075" type="folder">1</container>
+                        <unitdate normal="1915/1916" type="inclusive">1915-1916</unitdate>
+                    </did>
+                </c>
+                <c id="ref113" level="file">
+                    <did>
+                        <unittitle>V,</unittitle>
+                        <container id="cid25076" type="box" label="Mixed materials">6</container>
+                        <container parent="cid25076" type="folder">2</container>
+                        <unitdate normal="1909/1917" type="inclusive">1909, 1914-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref114" level="file">
+                    <did>
+                        <unittitle>Valentiner, Dr. Wilhelm,</unittitle>
+                        <container id="cid25077" type="box" label="Mixed materials">6</container>
+                        <container parent="cid25077" type="folder">3</container>
+                        <unitdate normal="1910/1917" type="inclusive">1910, 1914, 1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref115" level="file">
+                    <did>
+                        <unittitle>Volpi, Elia,</unittitle>
+                        <container id="cid25078" type="box" label="Mixed materials">6</container>
+                        <container parent="cid25078" type="folder">4</container>
+                        <unitdate normal="1916/1916">1916</unitdate>
+                    </did>
+                </c>
+                <c id="ref116" level="file">
+                    <did>
+                        <unittitle>Wa-Whip,</unittitle>
+                        <container id="cid25079" type="box" label="Mixed materials">6</container>
+                        <container parent="cid25079" type="folder">5</container>
+                        <unitdate normal="1912/1917" type="inclusive">1912-1917</unitdate>
+                    </did>
+                    <odd id="ref190">
+                        <head>General note</head>
+                        <p>Includes May 1, 1914 letter regarding Museum accession 15.141a-d</p>
+                    </odd>
+                </c>
+                <c id="ref117" level="file">
+                    <did>
+                        <unittitle>Walser, G.,</unittitle>
+                        <container id="cid25080" type="box" label="Mixed materials">6</container>
+                        <container parent="cid25080" type="folder">6</container>
+                        <unitdate normal="1915/1917" type="inclusive">1915-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref118" level="file">
+                    <did>
+                        <unittitle>Warner, Langdon,</unittitle>
+                        <container id="cid25081" type="box" label="Mixed materials">6</container>
+                        <container parent="cid25081" type="folder">7</container>
+                        <unitdate normal="1915/1917" type="inclusive">1915-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref119" level="file">
+                    <did>
+                        <unittitle>Whit-Wy,</unittitle>
+                        <container id="cid25082" type="box" label="Mixed materials">6</container>
+                        <container parent="cid25082" type="folder">8</container>
+                        <unitdate normal="1912/1917" type="inclusive">1912-1917</unitdate>
+                    </did>
+                    <odd id="ref180">
+                        <head>General note</head>
+                        <p>Regarding White, Allom &amp; Company letters see also: Charles Allom letters in A., 1912-1917 B.1/F.1</p>
+                    </odd>
+                </c>
+                <c id="ref120" level="file">
+                    <did>
+                        <unittitle>Writings - miscellaneous,</unittitle>
+                        <container id="cid25083" type="box" label="Mixed materials">6</container>
+                        <container parent="cid25083" type="folder">9</container>
+                        <unitdate normal="1916/1917" type="inclusive">1916-1917, n.d</unitdate>
+                    </did>
+                </c>
+                <c id="ref121" level="file">
+                    <did>
+                        <unittitle>Y-Z,</unittitle>
+                        <container id="cid25084" type="box" label="Mixed materials">6</container>
+                        <container parent="cid25084" type="folder">10</container>
+                        <unitdate normal="1913/1917" type="inclusive">1913-1917</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="ref2" level="series">
+                <did>
+                    <unittitle>Series 2. Russell A. Plimpton Files</unittitle>
+                    <unitdate normal="1916/1917" type="bulk">Bulk, 1916-1917</unitdate>
+                    <unitdate normal="1913/1918" type="inclusive">1913-1918</unitdate>
+                    <abstract id="ref155" label="Abstract">Durr Friedley was a staff member of the Department of Decorative Arts of The Metropolitan Museum of Art from 1911 until 1917, serving as an assistant, Assistant Curator and Acting Curator. Records consist primarily of correspondence regarding prospective Museum acquisitions. Items of special interest include letters concerning the Museum&#x2019;s acquisition of early American colonial furnishings, later displayed in the American Wing.</abstract>
+                </did>
+                <bioghist id="ref156">
+                    <head>Biographical/Historical note</head>
+                    <p>Curator and artist Durr Friedley (1888-1938) was born in Indianapolis, Indiana and received a degree in Fine Arts from Harvard University in 1911. (At Harvard and later in life his surname was spelled Freedley; in records from his time at the Metropolitan Museum of Art it consistently appears as Friedley.) He joined the staff of the Metropolitan Museum of Art in October, 1911, as an assistant in the Department of Decorative Arts. In 1912, after favorable recommendations by colleagues, Friedley was appointed Assistant Curator. He was promoted to Acting Curator in 1914 when the department&#x2019;s Curator, Dr. Wilhelm R. Valentiner, took a leave of absence to enlist in the German army. Valentiner resigned from the Metropolitan in 1917 and Friedley was offered the post of Curator, but he declined and instead announced his own departure from the Museum.</p>
+                    <p>During his time at the Museum, Friedley was involved with the acquisition and exhibition of a wide range of decorative arts objects. He corresponded extensively with collectors and dealers who owned items of interest to the Museum, and assessed objects under consideration by the Purchasing Committee of the Board of Trustees. Towards the end of his tenure, he worked intensively on the acquisition of colonial American interiors and objects intended for exhibition in the Museum&#x2019;s planned American Wing. Shortly after leaving the Metropolitan, Friedley drew a set of architectural plans for the proposed American Wing, but they were never used.</p>
+                    <p>Friedley served in the U.S. armed forces [branch, dates?] where he painted camouflage on war planes. In the 1920s, he spent time in Europe as a portrait painter. He eventually returned to the United States and settled in Newport, Rhode Island, where he continued his career as a portrait painter and muralist. Friedley died in a car accident at the age of fifty. A memorial exhibit of his artwork was held at the Walker Galleries in New York City in early 1939.</p>
+                </bioghist>
+                <prefercite id="ref157">
+                    <head>Preferred Citation note</head>
+                    <p>[Title of Item], [Date of Item], Box [Number], Folder [Number], Durr Friedley Records, The Metropolitan Museum of Art Archives.</p>
+                </prefercite>
+                <scopecontent id="ref158">
+                    <head>Scope and Contents note</head>
+                    <p>Records include letters regarding potential Museum acquisitions exchanged by Durr Friedley with dealers and private owners of decorative arts objects. The bulk of this correspondence is over Friedley&#x2019;s own signature, but there are also some letters from the desks of other Decorative Arts Department staff, notably Assistant Curator Russell A. Plimpton (see Series 2). Prominent dealers and collectors represented include Duveen Brothers, Judge A.T Clearwater and White, Allom and Company. There are a few personal letters, and a small amount of correspondences from before and after Friedley&#x2019;s service at the Museum. Also included are collection inventory lists, handwritten notes regarding museum objects, photographs and typescript essays by Friedley and other Museum staff. There is substantial documentation regarding the acquisition by the Museum of colonial interiors and period rooms, and planning for the proposed American Wing. The records also include correspondence between Friedley and other members of the Museum administration including Secretary Henry Watson Kent and Director Edward Robinson.</p>
+                </scopecontent>
+                <c id="ref122" level="file">
+                    <did>
+                        <unittitle>A,</unittitle>
+                        <container id="cid25085" type="box" label="Mixed materials">6</container>
+                        <container parent="cid25085" type="folder">11</container>
+                        <unitdate normal="1916/1917" type="inclusive">1916-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref123" level="file">
+                    <did>
+                        <unittitle>B,</unittitle>
+                        <container id="cid25086" type="box" label="Mixed materials">6</container>
+                        <container parent="cid25086" type="folder">12</container>
+                        <unitdate normal="1916/1918" type="inclusive">1916-1918</unitdate>
+                    </did>
+                </c>
+                <c id="ref124" level="file">
+                    <did>
+                        <unittitle>C,</unittitle>
+                        <container id="cid25087" type="box" label="Mixed materials">6</container>
+                        <container parent="cid25087" type="folder">13</container>
+                        <unitdate normal="1915/1918" type="inclusive">1915-1918</unitdate>
+                    </did>
+                </c>
+                <c id="ref125" level="file">
+                    <did>
+                        <unittitle>Clark, Charles C.,</unittitle>
+                        <container id="cid25088" type="box" label="Mixed materials">6</container>
+                        <container parent="cid25088" type="folder">14</container>
+                        <unitdate normal="1916/1917" type="inclusive">1916-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref126" level="file">
+                    <did>
+                        <unittitle>Clearwater, Hon. A.T.,</unittitle>
+                        <container id="cid25089" type="box" label="Mixed materials">6</container>
+                        <container parent="cid25089" type="folder">15</container>
+                        <unitdate normal="1918/1918">1918</unitdate>
+                    </did>
+                </c>
+                <c id="ref127" level="file">
+                    <did>
+                        <unittitle>D,</unittitle>
+                        <container id="cid25090" type="box" label="Mixed materials">6</container>
+                        <container parent="cid25090" type="folder">16</container>
+                        <unitdate normal="1916/1917" type="inclusive">1916-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref128" level="file">
+                    <did>
+                        <unittitle>E,</unittitle>
+                        <container id="cid25091" type="box" label="Mixed materials">6</container>
+                        <container parent="cid25091" type="folder">17</container>
+                        <unitdate normal="1916/1916">1916</unitdate>
+                    </did>
+                </c>
+                <c id="ref129" level="file">
+                    <did>
+                        <unittitle>F,</unittitle>
+                        <container id="cid25092" type="box" label="Mixed materials">6</container>
+                        <container parent="cid25092" type="folder">18</container>
+                        <unitdate normal="1916/1918" type="inclusive">1916-1918</unitdate>
+                    </did>
+                </c>
+                <c id="ref130" level="file">
+                    <did>
+                        <unittitle>G,</unittitle>
+                        <container id="cid25093" type="box" label="Mixed materials">6</container>
+                        <container parent="cid25093" type="folder">19</container>
+                        <unitdate normal="1916/1917" type="inclusive">1916-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref131" level="file">
+                    <did>
+                        <unittitle>H,</unittitle>
+                        <container id="cid25094" type="box" label="Mixed materials">6</container>
+                        <container parent="cid25094" type="folder">20</container>
+                        <unitdate normal="1916/1918" type="inclusive">1916</unitdate>
+                    </did>
+                </c>
+                <c id="ref133" level="file">
+                    <did>
+                        <unittitle>I,</unittitle>
+                        <container id="cid25095" type="box" label="Mixed materials">7</container>
+                        <container parent="cid25095" type="folder">1</container>
+                        <unitdate normal="1917/1917">1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref134" level="file">
+                    <did>
+                        <unittitle>K,</unittitle>
+                        <container id="cid25096" type="box" label="Mixed materials">7</container>
+                        <container parent="cid25096" type="folder">2</container>
+                        <unitdate normal="1915/1916" type="inclusive">1915-1916</unitdate>
+                    </did>
+                </c>
+                <c id="ref135" level="file">
+                    <did>
+                        <unittitle>Kent, Henry W.,</unittitle>
+                        <container id="cid25097" type="box" label="Mixed materials">7</container>
+                        <container parent="cid25097" type="folder">3</container>
+                        <unitdate normal="1916/1916">1916</unitdate>
+                    </did>
+                </c>
+                <c id="ref136" level="file">
+                    <did>
+                        <unittitle>L,</unittitle>
+                        <container id="cid25098" type="box" label="Mixed materials">7</container>
+                        <container parent="cid25098" type="folder">4</container>
+                        <unitdate normal="1915/1917" type="inclusive">1915-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref137" level="file">
+                    <did>
+                        <unittitle>Lowndes, Mrs. Stanley,</unittitle>
+                        <container id="cid25099" type="box" label="Mixed materials">7</container>
+                        <container parent="cid25099" type="folder">5</container>
+                        <unitdate normal="1916/1916">1916</unitdate>
+                    </did>
+                </c>
+                <c id="ref138" level="file">
+                    <did>
+                        <unittitle>M,</unittitle>
+                        <container id="cid25100" type="box" label="Mixed materials">7</container>
+                        <container parent="cid25100" type="folder">6</container>
+                        <unitdate normal="1915/1917" type="inclusive">1915-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref139" level="file">
+                    <did>
+                        <unittitle>Mexican Majolica,</unittitle>
+                        <container id="cid25101" type="box" label="Mixed materials">7</container>
+                        <container parent="cid25101" type="folder">7</container>
+                        <unitdate>n.d.</unitdate>
+                    </did>
+                </c>
+                <c id="ref140" level="file">
+                    <did>
+                        <unittitle>Miscellaneous notes,</unittitle>
+                        <container id="cid25102" type="box" label="Mixed materials">7</container>
+                        <container parent="cid25102" type="folder">8</container>
+                        <unitdate>n.d.</unitdate>
+                    </did>
+                </c>
+                <c id="ref141" level="file">
+                    <did>
+                        <unittitle>N,</unittitle>
+                        <container id="cid25103" type="box" label="Mixed materials">7</container>
+                        <container parent="cid25103" type="folder">9</container>
+                        <unitdate normal="1916/1917" type="inclusive">1916-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref142" level="file">
+                    <did>
+                        <unittitle>O,</unittitle>
+                        <container id="cid25104" type="box" label="Mixed materials">7</container>
+                        <container parent="cid25104" type="folder">10</container>
+                        <unitdate normal="1916/1916">1916</unitdate>
+                    </did>
+                </c>
+                <c id="ref143" level="file">
+                    <did>
+                        <unittitle>P,</unittitle>
+                        <container id="cid25105" type="box" label="Mixed materials">7</container>
+                        <container parent="cid25105" type="folder">11</container>
+                        <unitdate normal="1916/1916">1916</unitdate>
+                    </did>
+                </c>
+                <c id="ref144" level="file">
+                    <did>
+                        <unittitle>Pitcairn, Raymond,</unittitle>
+                        <container id="cid25106" type="box" label="Mixed materials">7</container>
+                        <container parent="cid25106" type="folder">12</container>
+                        <unitdate normal="1917/1917">1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref145" level="file">
+                    <did>
+                        <unittitle>Q,</unittitle>
+                        <container id="cid25107" type="box" label="Mixed materials">7</container>
+                        <container parent="cid25107" type="folder">13</container>
+                        <unitdate normal="1917/1918" type="inclusive">1917-1918</unitdate>
+                    </did>
+                </c>
+                <c id="ref146" level="file">
+                    <did>
+                        <unittitle>R,</unittitle>
+                        <container id="cid25108" type="box" label="Mixed materials">7</container>
+                        <container parent="cid25108" type="folder">14</container>
+                        <unitdate normal="1916/1918" type="inclusive">1916-1918</unitdate>
+                    </did>
+                </c>
+                <c id="ref147" level="file">
+                    <did>
+                        <unittitle>Robinson, Edward (Director),</unittitle>
+                        <container id="cid25109" type="box" label="Mixed materials">7</container>
+                        <container parent="cid25109" type="folder">15</container>
+                        <unitdate normal="1916/1917" type="inclusive">1916-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref148" level="file">
+                    <did>
+                        <unittitle>S,</unittitle>
+                        <container id="cid25110" type="box" label="Mixed materials">7</container>
+                        <container parent="cid25110" type="folder">16</container>
+                        <unitdate normal="1915/1918" type="inclusive">1915-1918</unitdate>
+                    </did>
+                </c>
+                <c id="ref149" level="file">
+                    <did>
+                        <unittitle>Silver,</unittitle>
+                        <container id="cid25111" type="box" label="Mixed materials">7</container>
+                        <container parent="cid25111" type="folder">17</container>
+                        <unitdate normal="1914/1918" type="inclusive">1914-1918</unitdate>
+                    </did>
+                </c>
+                <c id="ref150" level="file">
+                    <did>
+                        <unittitle>Silver, notes on,</unittitle>
+                        <container id="cid25112" type="box" label="Mixed materials">7</container>
+                        <container parent="cid25112" type="folder">18</container>
+                        <unitdate>n.d</unitdate>
+                    </did>
+                </c>
+                <c id="ref151" level="file">
+                    <did>
+                        <unittitle>T,</unittitle>
+                        <container id="cid25113" type="box" label="Mixed materials">7</container>
+                        <container parent="cid25113" type="folder">19</container>
+                        <unitdate normal="1915/1917" type="inclusive">1915-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref152" level="file">
+                    <did>
+                        <unittitle>V,</unittitle>
+                        <container id="cid25114" type="box" label="Mixed materials">7</container>
+                        <container parent="cid25114" type="folder">20</container>
+                        <unitdate normal="1917/1917">1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref153" level="file">
+                    <did>
+                        <unittitle>W,</unittitle>
+                        <container id="cid25115" type="box" label="Mixed materials">7</container>
+                        <container parent="cid25115" type="folder">21</container>
+                        <unitdate normal="1915/1917" type="inclusive">1915-1917</unitdate>
+                    </did>
+                </c>
+                <c id="ref154" level="file">
+                    <did>
+                        <unittitle>Y,</unittitle>
+                        <container id="cid25116" type="box" label="Mixed materials">7</container>
+                        <container parent="cid25116" type="folder">22</container>
+                        <unitdate normal="1917/1917">1917</unitdate>
+                    </did>
+                </c>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>
